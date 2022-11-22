@@ -1,3 +1,4 @@
+
 #EXTM3U x-tvg-url="https://dukun.masuk.id/epg/vidio.com.epg.xml, https://dukun.masuk.id/epg/mncvision.id.epg.xml, https://dukun.masuk.id/epg/useetv.com.epg.xml, https://dukun.masuk.id/epg/movistarplus.es.epg.xml, https://dukun.masuk.id/epg/bein.com.epg.xml, https://dukun.masuk.id/epg/mi.tv.epg.xml, https://dukun.masuk.id/epg/bt.com.epg.xml, https://dukun.masuk.id/epg/m.tv.sms.cz.epg.xml, https://dukun.masuk.id/epg/maxtvgo.mk.epg.xml, https://dukun.masuk.id/epg/astro.com.my.epg.xml, https://dukun.masuk.id/epg/i.mjh.nz.epg.xml, https://dukun.masuk.id/epg/gatotv.com.epg.xml, https://dukun.masuk.id/epg/sky.com.epg.xml, https://dukun.masuk.id/epg/musor.tv.epg.xml, https://dukun.masuk.id/epg/starhubtvplus.com.epg.xml, https://dukun.masuk.id/epg/seezntv.com.epg.xml, https://dukun.masuk.id/epg/wavve.com.epg.xml, https://dukun.masuk.id/epg/directv.com.epg.xml, https://dukun.masuk.id/epg/dstv.com.epg.xml, https://dukun.masuk.id/epg/dishtv.in.epg.xml, https://dukun.masuk.id/epg/tv.trueid.net.epg.xml, https://dukun.masuk.id/epg/tvtv.us.epg.xml, https://dukun.masuk.id/epg/programtv.onet.pl.epg.xml, https://dukun.masuk.id/epg/meo.pt.epg.xml, https://dukun.masuk.id/epg/beinsports.com.epg.xml, https://iptv-org.github.io/epg/guides/hk-en/nowplayer.now.com.epg.xml, https://dukun.masuk.id/epg/tv.yandex.ru.epg.xml, https://dukun.masuk.id/epg/magticom.ge.epg.xml, https://dukun.masuk.id/epg/guidatv.sky.it.epg.xml, https://dukun.masuk.id/epg/ziggogo.tv.epg.xml, https://dukun.masuk.id/epg/tvhebdo.com.epg.xml, https://dukun.masuk.id/epg/a.xml, https://dukun.masuk.id/epg/dukun.xml, https://iptv-org.github.io/epg/guides/jp/tvguide.myjcom.jp.epg.xml.gz, https://iptv-org.github.io/epg/guides/ru/tv.yandex.ru.epg.xml.gz, https://iptv-org.github.io/epg/guides/mx/gatotv.com.epg.xml.gz, https://iptv-org.github.io/epg/guides/ar/mi.tv.epg.xml.gz, https://iptv-org.github.io/epg/guides/br/mi.tv.epg.xml.gz, https://iptv-org.github.io/epg/guides/nl/delta.nl.epg.xml.gz, https://iptv-org.github.io/epg/guides/hr/maxtv.hrvatskitelekom.hr.epg.xml.gz, https://iptv-org.github.io/epg/guides/ro/programetv.ro.epg.xml.gz"
 
 
@@ -30,258 +31,40 @@ https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39a
 https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/live/live5
 
 
-#EXTINF:3 tvg-id="livedukun.id" tvg-logo="https://i.ibb.co/vDMwrPM/Desain-tanpa-judul-2022-11-01-T232211-407-modified.png" group-title="Live Event",[LIVE Badminton Court 1]
+
+#EXTINF:3 tvg-id="livedukun.id" tvg-logo="https://i.ibb.co/K7n0qMn/Desain-tanpa-judul-2022-11-16-T092047-318-modified.png" group-title="Live Event",[LIVE Badminton Court 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/zhuszozszxoszdo Firefox/31.0
 https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/live/badminton1
 
-#EXTINF:4 tvg-id="livedukun.id" tvg-logo="https://i.ibb.co/vDMwrPM/Desain-tanpa-judul-2022-11-01-T232211-407-modified.png" group-title="Live Event",[LIVE Badminton Court 2]
+#EXTINF:4 tvg-id="livedukun.id" tvg-logo="https://i.ibb.co/K7n0qMn/Desain-tanpa-judul-2022-11-16-T092047-318-modified.png" group-title="Live Event",[LIVE Badminton Court 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/zhuszozszxoszdo Firefox/31.0
 https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/live/badminton2
 
-#EXTINF:3 tvg-id="livedukun.id" tvg-logo="https://i.ibb.co/vDMwrPM/Desain-tanpa-judul-2022-11-01-T232211-407-modified.png" group-title="Live Event",[LIVE Badminton Court 3]
+#EXTINF:3 tvg-id="livedukun.id" tvg-logo="https://i.ibb.co/K7n0qMn/Desain-tanpa-judul-2022-11-16-T092047-318-modified.png" group-title="Live Event",[LIVE Badminton Court 3]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/zhuszozszxoszdo Firefox/31.0
 https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/live/badminton3
 
-#EXTINF:4 tvg-id="livedukun.id" tvg-logo="https://i.ibb.co/vDMwrPM/Desain-tanpa-judul-2022-11-01-T232211-407-modified.png" group-title="Live Event",[LIVE Badminton Court 4]
+#EXTINF:4 tvg-id="livedukun.id" tvg-logo="https://i.ibb.co/K7n0qMn/Desain-tanpa-judul-2022-11-16-T092047-318-modified.png" group-title="Live Event",[LIVE Badminton Court 4]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/zhuszozszxoszdo Firefox/31.0
 https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/live/badminton4
 
 
 
-#EXTINF:3 tvg-id="livedukun.id" tvg-logo="https://i.ibb.co/RNnBnL7/maxresdefault-3-modified.png" group-title="Live Event",[LIVE World Cup 1]
+#EXTINF:3 tvg-id="world1.dukun" tvg-logo="https://i.ibb.co/RNnBnL7/maxresdefault-3-modified.png" group-title="Live Event",[LIVE World Cup 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/zhuszozszxoszdo Firefox/31.0
 https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/live/world1
 
-#EXTINF:4 tvg-id="livedukun.id" tvg-logo="https://i.ibb.co/RNnBnL7/maxresdefault-3-modified.png" group-title="Live Event",[LIVE World Cup 2]
+#EXTINF:4 tvg-id="world2.dukun" tvg-logo="https://i.ibb.co/RNnBnL7/maxresdefault-3-modified.png" group-title="Live Event",[LIVE World Cup 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/zhuszozszxoszdo Firefox/31.0
 https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/live/world2
 
-#EXTINF:5 tvg-id="livedukun.id" tvg-logo="https://i.ibb.co/RNnBnL7/maxresdefault-3-modified.png" group-title="Live Event",[LIVE World Cup 3]
+#EXTINF:5 tvg-id="world3.dukun" tvg-logo="https://i.ibb.co/RNnBnL7/maxresdefault-3-modified.png" group-title="Live Event",[LIVE World Cup 3]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/zhuszozszxoszdo Firefox/31.0
 https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/live/world3
 
-
-
-#EXTINF:3 tvg-id="epl1.dukun" tvg-logo="https://i.ibb.co/PghfM5s/2016-17-premier-league-sleeve-patch-2-modified.png" group-title="Live Event",[LIVE EPL 1]
+#EXTINF:5 tvg-id="world4.dukun" tvg-logo="https://i.ibb.co/RNnBnL7/maxresdefault-3-modified.png" group-title="Live Event",[LIVE World Cup 4]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/zhuszozszxoszdo Firefox/31.0
-https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/live/epl1
-
-#EXTINF:4 tvg-id="epl2.dukun" tvg-logo="https://i.ibb.co/PghfM5s/2016-17-premier-league-sleeve-patch-2-modified.png" group-title="Live Event",[LIVE EPL 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/zhuszozszxoszdo Firefox/31.0
-https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/live/epl2
-
-#EXTINF:5 tvg-id="epl3.dukun" tvg-logo="https://i.ibb.co/PghfM5s/2016-17-premier-league-sleeve-patch-2-modified.png" group-title="Live Event",[LIVE EPL 3]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/zhuszozszxoszdo Firefox/31.0
-https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/live/epl3
-
-#EXTINF:6 tvg-id="epl4.dukun" tvg-logo="https://i.ibb.co/PghfM5s/2016-17-premier-league-sleeve-patch-2-modified.png" group-title="Live Event",[LIVE EPL 4]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/zhuszozszxoszdo Firefox/31.0
-https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/live/epl4
-
-#EXTINF:6 tvg-id="epl5.dukun" tvg-logo="https://i.ibb.co/PghfM5s/2016-17-premier-league-sleeve-patch-2-modified.png" group-title="Live Event",[LIVE EPL 5]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/zhuszozszxoszdo Firefox/31.0
-https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/live/epl5
-
-
-#EXTINF:3 tvg-id="ucl1.dukun" tvg-logo="https://i.ibb.co/zXptXFn/UCL-logo-modified.png" group-title="Live Event",[LIVE UCL 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/zhuszozszxoszdo Firefox/31.0
-https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/live/ucl1
-
-#EXTINF:4 tvg-id="ucl2.dukun" tvg-logo="https://i.ibb.co/zXptXFn/UCL-logo-modified.png" group-title="Live Event",[LIVE UCL 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/zhuszozszxoszdo Firefox/31.0
-https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/live/ucl2
-
-#EXTINF:5 tvg-id="ucl3.dukun" tvg-logo="https://i.ibb.co/zXptXFn/UCL-logo-modified.png" group-title="Live Event",[LIVE UCL 3]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/zhuszozszxoszdo Firefox/31.0
-https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/live/ucl3
-
-#EXTINF:6 tvg-id="ucl4.dukun" tvg-logo="https://i.ibb.co/zXptXFn/UCL-logo-modified.png" group-title="Live Event",[LIVE UCL 4]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/zhuszozszxoszdo Firefox/31.0
-https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/live/ucl4
-
-#EXTINF:7 tvg-id="ucl5.dukun" tvg-logo="https://i.ibb.co/zXptXFn/UCL-logo-modified.png" group-title="Live Event",[LIVE UCL 5]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/zhuszozszxoszdo Firefox/31.0
-https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/live/ucl5
-
-#EXTINF:6 tvg-id="ucl6.dukun" tvg-logo="https://i.ibb.co/zXptXFn/UCL-logo-modified.png" group-title="Live Event",[LIVE UCL 6]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/zhuszozszxoszdo Firefox/31.0
-https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/live/ucl6
-
-#EXTINF:7 tvg-id="ucl7.dukun" tvg-logo="https://i.ibb.co/zXptXFn/UCL-logo-modified.png" group-title="Live Event",[LIVE UCL 7]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/zhuszozszxoszdo Firefox/31.0
-https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/live/ucl7
-
-
-
-#EXTINF:3 tvg-id="uel1.dukun" tvg-logo="https://i.ibb.co/N7R9cjD/602d8f7403782-modified.png" group-title="Live Event",[LIVE UEFA Europe League 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/zhuszozszxoszdo Firefox/31.0
-https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/live/uel1
-
-#EXTINF:4 tvg-id="uel2.dukun" tvg-logo="https://i.ibb.co/N7R9cjD/602d8f7403782-modified.png" group-title="Live Event",[LIVE UEFA Europe League 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/zhuszozszxoszdo Firefox/31.0
-https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/live/uel2
-
-#EXTINF:5 tvg-id="uel3.dukun" tvg-logo="https://i.ibb.co/N7R9cjD/602d8f7403782-modified.png" group-title="Live Event",[LIVE UEFA Europe League 3]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/zhuszozszxoszdo Firefox/31.0
-https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/live/uel3
-
-#EXTINF:6 tvg-id="uel4.dukun" tvg-logo="https://i.ibb.co/N7R9cjD/602d8f7403782-modified.png" group-title="Live Event",[LIVE UEFA Europe League 4]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/zhuszozszxoszdo Firefox/31.0
-https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/live/uel4
-
-#EXTINF:6 tvg-id="uel5.dukun" tvg-logo="https://i.ibb.co/N7R9cjD/602d8f7403782-modified.png" group-title="Live Event",[LIVE UEFA Europe League 5]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/zhuszozszxoszdo Firefox/31.0
-https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/live/uel5
-
-#EXTINF:5 tvg-id="uel6.dukun" tvg-logo="https://i.ibb.co/N7R9cjD/602d8f7403782-modified.png" group-title="Live Event",[LIVE UEFA Europe League 6]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/zhuszozszxoszdo Firefox/31.0
-https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/live/uel6
-
-#EXTINF:6 tvg-id="uel7.dukun" tvg-logo="https://i.ibb.co/N7R9cjD/602d8f7403782-modified.png" group-title="Live Event",[LIVE UEFA Europe League 7]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/zhuszozszxoszdo Firefox/31.0
-https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/live/uel7
-
-#EXTINF:6 tvg-id="uel8.dukun" tvg-logo="https://i.ibb.co/N7R9cjD/602d8f7403782-modified.png" group-title="Live Event",[LIVE UEFA Europe League 8]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/zhuszozszxoszdo Firefox/31.0
-https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/live/uel8
-
-#EXTINF:6 tvg-id="uel9.dukun" tvg-logo="https://i.ibb.co/N7R9cjD/602d8f7403782-modified.png" group-title="Live Event",[LIVE UEFA Europe League 9]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/zhuszozszxoszdo Firefox/31.0
-https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/live/uel9
-
-
-
-#EXTINF:3 tvg-id="ucel1.dukun" tvg-logo="https://i.ibb.co/JqgqCPm/uefa-conference-league-logo-modified.png" group-title="Live Event",[LIVE UEFA Conference League 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/zhuszozszxoszdo Firefox/31.0
-https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/live/ucel1
-
-#EXTINF:4 tvg-id="ucel2.dukun" tvg-logo="https://i.ibb.co/JqgqCPm/uefa-conference-league-logo-modified.png" group-title="Live Event",[LIVE UEFA Conference League 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/zhuszozszxoszdo Firefox/31.0
-https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/live/ucel2
-
-#EXTINF:5 tvg-id="ucel3.dukun" tvg-logo="https://i.ibb.co/JqgqCPm/uefa-conference-league-logo-modified.png" group-title="Live Event",[LIVE UEFA Conference League 3]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/zhuszozszxoszdo Firefox/31.0
-https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/live/ucel3
-
-#EXTINF:6 tvg-id="ucel4.dukun" tvg-logo="https://i.ibb.co/JqgqCPm/uefa-conference-league-logo-modified.png" group-title="Live Event",[LIVE UEFA Conference League 4]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/zhuszozszxoszdo Firefox/31.0
-https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/live/ucel4
-
-#EXTINF:6 tvg-id="ucel5.dukun" tvg-logo="https://i.ibb.co/JqgqCPm/uefa-conference-league-logo-modified.png" group-title="Live Event",[LIVE UEFA Conference League 5]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/zhuszozszxoszdo Firefox/31.0
-https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/live/ucel5
-
-#EXTINF:5 tvg-id="ucel6.dukun" tvg-logo="https://i.ibb.co/JqgqCPm/uefa-conference-league-logo-modified.png" group-title="Live Event",[LIVE UEFA Conference League 6]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/zhuszozszxoszdo Firefox/31.0
-https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/live/ucel6
-
-#EXTINF:6 tvg-id="ucel7.dukun" tvg-logo="https://i.ibb.co/JqgqCPm/uefa-conference-league-logo-modified.png" group-title="Live Event",[LIVE UEFA Conference League 7]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/zhuszozszxoszdo Firefox/31.0
-https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/live/ucel7
-
-#EXTINF:6 tvg-id="ucel8.dukun" tvg-logo="https://i.ibb.co/JqgqCPm/uefa-conference-league-logo-modified.png" group-title="Live Event",[LIVE UEFA Conference League 8]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/zhuszozszxoszdo Firefox/31.0
-https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/live/ucel8
-
-
-
-#EXTINF:3 tvg-id="laliga1.dukun" tvg-logo="https://i.ibb.co/xjF8Fdc/logo-la-liga-modified.png" group-title="Live Event",[LIVE LaLiga 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/zhuszozszxoszdo Firefox/31.0
-https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/live/laliga1
-
-#EXTINF:4 tvg-id="laliga2.dukun" tvg-logo="https://i.ibb.co/xjF8Fdc/logo-la-liga-modified.png" group-title="Live Event",[LIVE LaLiga 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/zhuszozszxoszdo Firefox/31.0
-https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/live/laliga2
-
-#EXTINF:5 tvg-id="laliga3.dukun" tvg-logo="https://i.ibb.co/xjF8Fdc/logo-la-liga-modified.png" group-title="Live Event",[LIVE LaLiga 3]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/zhuszozszxoszdo Firefox/31.0
-https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/live/laliga3
-
-
-
-#EXTINF:3 tvg-id="serie1.dukun" tvg-logo="https://i.ibb.co/4Y96d8D/f29e211f049347bd53882a0df8ecabb0596b9a33-modified.png" group-title="Live Event",[LIVE Serie A 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/zhuszozszxoszdo Firefox/31.0
-https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/live/seria1
-
-#EXTINF:4 tvg-id="serie2.dukun" tvg-logo="https://i.ibb.co/4Y96d8D/f29e211f049347bd53882a0df8ecabb0596b9a33-modified.png" group-title="Live Event",[LIVE Serie A 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/zhuszozszxoszdo Firefox/31.0
-https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/live/seria2
-
-#EXTINF:4 tvg-id="serie3.dukun" tvg-logo="https://i.ibb.co/4Y96d8D/f29e211f049347bd53882a0df8ecabb0596b9a33-modified.png" group-title="Live Event",[LIVE Serie A 3]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/zhuszozszxoszdo Firefox/31.0
-https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/live/seria3
-
-
-
-#EXTINF:3 tvg-id="ligaf1.dukun" tvg-logo="https://i.ibb.co/H7yPDkL/French-Ligue-1-Logo-2020-modified.png" group-title="Live Event",[LIVE Ligue 1 Prancis 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/zhuszozszxoszdo Firefox/31.0
-https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/live/ligaf1
-
-#EXTINF:4 tvg-id="ligaf2.dukun" tvg-logo="https://i.ibb.co/H7yPDkL/French-Ligue-1-Logo-2020-modified.png" group-title="Live Event",[LIVE Ligue 1 Prancis 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/zhuszozszxoszdo Firefox/31.0
-https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/live/ligaf2
-
-#EXTINF:3 tvg-id="ligaf3.dukun" tvg-logo="https://i.ibb.co/H7yPDkL/French-Ligue-1-Logo-2020-modified.png" group-title="Live Event",[LIVE Ligue 1 Prancis 3]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/zhuszozszxoszdo Firefox/31.0
-https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/live/ligaf3
-
-#EXTINF:4 tvg-id="ligaf4.dukun" tvg-logo="https://i.ibb.co/H7yPDkL/French-Ligue-1-Logo-2020-modified.png" group-title="Live Event",[LIVE Ligue 1 Prancis 4]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/zhuszozszxoszdo Firefox/31.0
-https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/live/ligaf4
-
-#EXTINF:4 tvg-id="ligaf5.dukun" tvg-logo="https://i.ibb.co/H7yPDkL/French-Ligue-1-Logo-2020-modified.png" group-title="Live Event",[LIVE Ligue 1 Prancis 5]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/zhuszozszxoszdo Firefox/31.0
-https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/live/ligaf5
-
-
-
-#EXTINF:3 tvg-id="bundes1.dukun" tvg-logo="https://i.ibb.co/TBc3mXM/ilustrasi-berita-liga-jerman-modified.png" group-title="Live Event",[LIVE Bundesliga 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/zhuszozszxoszdo Firefox/31.0
-https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/live/bundes1
-
-#EXTINF:3 tvg-id="bundes2.dukun" tvg-logo="https://i.ibb.co/TBc3mXM/ilustrasi-berita-liga-jerman-modified.png" group-title="Live Event",[LIVE Bundesliga 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/zhuszozszxoszdo Firefox/31.0
-https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/live/bundes2
-
-#EXTINF:3 tvg-id="bundes3.dukun" tvg-logo="https://i.ibb.co/TBc3mXM/ilustrasi-berita-liga-jerman-modified.png" group-title="Live Event",[LIVE Bundesliga 3]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/zhuszozszxoszdo Firefox/31.0
-https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/live/bundes3
-
-#EXTINF:3 tvg-id="bundes4.dukun" tvg-logo="https://i.ibb.co/TBc3mXM/ilustrasi-berita-liga-jerman-modified.png" group-title="Live Event",[LIVE Bundesliga 4]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/zhuszozszxoszdo Firefox/31.0
-https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/live/bundes4
-
-#EXTINF:3 tvg-id="bundes5.dukun" tvg-logo="https://i.ibb.co/TBc3mXM/ilustrasi-berita-liga-jerman-modified.png" group-title="Live Event",[LIVE Bundesliga 5]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/zhuszozszxoszdo Firefox/31.0
-https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/live/bundes5
-
-
-
-#EXTINF:3 tvg-id="mls1.dukun" tvg-logo="https://i.ibb.co/xYfkc9G/logo-major-league-soccer-mls-169-modified.png" group-title="Live Event",[LIVE MLS 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/zhuszozszxoszdo Firefox/31.0
-https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/live/mls1
-
-#EXTINF:3 tvg-id="mls2.dukun" tvg-logo="https://i.ibb.co/xYfkc9G/logo-major-league-soccer-mls-169-modified.png" group-title="Live Event",[LIVE MLS 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/zhuszozszxoszdo Firefox/31.0
-https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/live/mls2
-
-#EXTINF:3 tvg-id="mls3.dukun" tvg-logo="https://i.ibb.co/xYfkc9G/logo-major-league-soccer-mls-169-modified.png" group-title="Live Event",[LIVE MLS 3]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/zhuszozszxoszdo Firefox/31.0
-https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/live/mls3
-
-
-
-#EXTINF:3 tvg-id="livedukun.id" tvg-logo="https://i.ibb.co/VMv5D94/Desain-tanpa-judul-2022-10-08-T212846-290-modified.png" group-title="Live Event",[LIVE NFL/Rugby 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/zhuszozszxoszdo Firefox/31.0
-https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/live/nfl1
-
-#EXTINF:3 tvg-id="livedukun.id" tvg-logo="https://i.ibb.co/VMv5D94/Desain-tanpa-judul-2022-10-08-T212846-290-modified.png" group-title="Live Event",[LIVE NFL/Rugby 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/zhuszozszxoszdo Firefox/31.0
-https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/live/nfl2
-
-#EXTINF:3 tvg-id="livedukun.id" tvg-logo="https://i.ibb.co/VMv5D94/Desain-tanpa-judul-2022-10-08-T212846-290-modified.png" group-title="Live Event",[LIVE NFL/Rugby 3]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/zhuszozszxoszdo Firefox/31.0
-https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/live/nfl3
+https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/live/world4
 
 
 
@@ -296,6 +79,20 @@ https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39a
 #EXTINF:5 tvg-id="livedukun.id" tvg-logo="https://i.ibb.co/8bfXzQb/k-Yxk-Tji-E-400x400-modified.png" group-title="Live Event",[LIVE NBA 3]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/zhuszozszxoszdo Firefox/31.0
 https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/live/nba3
+
+
+
+#EXTINF:3 tvg-id="livedukun.id" tvg-logo="https://i.ibb.co/VMv5D94/Desain-tanpa-judul-2022-10-08-T212846-290-modified.png" group-title="Live Event",[LIVE NFL/Rugby 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/zhuszozszxoszdo Firefox/31.0
+https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/live/nfl1
+
+#EXTINF:3 tvg-id="livedukun.id" tvg-logo="https://i.ibb.co/VMv5D94/Desain-tanpa-judul-2022-10-08-T212846-290-modified.png" group-title="Live Event",[LIVE NFL/Rugby 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/zhuszozszxoszdo Firefox/31.0
+https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/live/nfl2
+
+#EXTINF:3 tvg-id="livedukun.id" tvg-logo="https://i.ibb.co/VMv5D94/Desain-tanpa-judul-2022-10-08-T212846-290-modified.png" group-title="Live Event",[LIVE NFL/Rugby 3]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/zhuszozszxoszdo Firefox/31.0
+https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/live/nfl3
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Ybs6C7Z/Capture-modified.png" group-title="Live Event", Request Live Event?
@@ -340,9 +137,12 @@ https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39
 #EXTVLCOPT:http-user-agent=zhuszozszxoszdo
 https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/lokal/indosiar2
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; VOW64; rv:31.0) Gecko/zhuszozszxoszdo Firefox/31.0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://punya.dukun.masuk.id/drm/sctv
 #EXTINF:-1 tvg-id="SCTV.id" tvg-logo="https://thumbor.prod.vid.id/cV7suiKWlj2Bj0Igw03BOf5VCvw=/112x112/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/204/4e9f5c.png" group-title="Lokal",SCTV
-#EXTVLCOPT:http-user-agent=zhuszozszxoszdo
-https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/lokal/sctv1.m3u8
+https://drm-epl-vidio-com-epl-1.akamaized.net/out/v1/1b34ee57680f49229adaa19b74a9b60d/index.mpd
+#https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/lokal/sctv1.m3u8
 
 #EXTINF:-1 tvg-id="SCTV.id" tvg-logo="https://thumbor.prod.vid.id/cV7suiKWlj2Bj0Igw03BOf5VCvw=/112x112/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/204/4e9f5c.png" group-title="Lokal",SCTV
 #EXTVLCOPT:http-user-agent=zhuszozszxoszdo
@@ -396,9 +196,12 @@ https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39
 #EXTINF:-1 tvg-id="TVRINasional.id" tvg-logo="https://thumbor.prod.vid.id/CHQ7jG2pWgk7OSBt-Sw8ZK1MB9U=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6441/528cc9.png" group-title="Lokal",TVRI Nasional
 https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/lokal/tvri.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; VOW64; rv:31.0) Gecko/zhuszozszxoszdo Firefox/31.0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://punya.dukun.masuk.id/drm/moji
 #EXTINF:-1 tvg-id="OChannel.id" tvg-logo="https://thumbor.prod.vidiocdn.com/tmmSRk4XtrU7uWrqXmu0m_22RSM=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/206/a11dc1.png" group-title="Lokal",Moji
-#EXTVLCOPT:http-user-agent=zhuszozszxoszdo
-https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/lokal/ochanneldukunetdahluapainnih.m3u8
+https://drm-epl-vidio-com-epl-3.akamaized.net/out/v1/71829de864884cb0b831334ac3dc0a2a/index.mpd
+#https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/lokal/ochanneldukunetdahluapainnih.m3u8
 
 #EXTINF:-1 tvg-id="OChannel.id" tvg-logo="https://thumbor.prod.vidiocdn.com/tmmSRk4XtrU7uWrqXmu0m_22RSM=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/206/a11dc1.png" group-title="Lokal",Moji
 #EXTVLCOPT:http-user-agent=zhuszozszxoszdo
@@ -555,9 +358,6 @@ https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39a
 
 #EXTINF:-1 tvg-id="FightSports.us" tvg-logo="https://i.ibb.co/XsDyNYM/cbd69886-bb5-removebg-preview-modified.png" group-title="Olahraga",Fight Sport
 https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/olahraga/fightsport.m3u8
-
-#EXTINF:-1 tvg-id="UFC.us" tvg-logo="https://i.ibb.co/hMTSzdn/2241952-modified.png" group-title="Olahraga",UFC
-https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/olahraga/ufc
 
 #EXTINF:-1 tvg-id="ImpactWrestling.us" tvg-logo="https://i.ibb.co/1n9FTzM/w-modified-removebg-preview-modified.png" group-title="Olahraga",IMPACT! Wrestling
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
@@ -2898,3 +2698,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2501/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=86926949493ad3767442c338b3140810&key=cbccf2086e836ad13b783f6166f888fd
 #EXTINF:-1 tvg-id="211" tvg-name="SUN TV" group-title="Malaysia" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/358_144.png",211 Sun TV (VPN)
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2310/default_ott.mpd
+
+
+
