@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://dukun.masuk.id/epg/a.xml, https://iptv-org.github.io/epg/guides/id.xml, https://iptv-org.github.io/epg/guides/ro.xml, https://iptv-org.github.io/epg/guides/pl.xml, https://iptv-org.github.io/epg/guides/za.xml, https://iptv-org.github.io/epg/guides/in.xml, https://iptv-org.github.io/epg/guides/au.xml, https://iptv-org.github.io/epg/guides/uk.xml, https://iptv-org.github.io/epg/guides/us.xml, https://iptv-org.github.io/epg/guides/ru.xml, https://iptv-org.github.io/epg/guides/it.xml, https://iptv-org.github.io/epg/guides/th.xml, https://iptv-org.github.io/epg/guides/ar.xml, https://iptv-org.github.io/epg/guides/pt.xml"
+#EXTM3U x-tvg-url="https://dukun.masuk.id/epg/a.xml, https://iptv-org.github.io/epg/guides/id.xml, https://iptv-org.github.io/epg/guides/my.xml, https://iptv-org.github.io/epg/guides/ro.xml, https://iptv-org.github.io/epg/guides/rs.xml, https://iptv-org.github.io/epg/guides/pl.xml, https://iptv-org.github.io/epg/guides/za.xml, https://iptv-org.github.io/epg/guides/in.xml, https://iptv-org.github.io/epg/guides/au.xml, https://iptv-org.github.io/epg/guides/uk.xml, https://iptv-org.github.io/epg/guides/us.xml, https://iptv-org.github.io/epg/guides/ru.xml, https://iptv-org.github.io/epg/guides/it.xml, https://iptv-org.github.io/epg/guides/th.xml, https://iptv-org.github.io/epg/guides/ar.xml, https://iptv-org.github.io/epg/guides/pt.xml"
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Ybs6C7Z/Capture-modified.png" group-title="Informasi",Dukun informasi
@@ -10,69 +10,61 @@ https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39
 
 
 #EXTINF:3 tvg-id="livedukun.id" tvg-logo="https://i.ibb.co/NYdvQTq/ezgif-frame-052-modified.png" group-title="Live Event",[LIVE 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/zhuszozszxosfb Firefox/31.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/zhuszozszxoszdo Firefox/31.0
 https://dukuntvs.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/live/live1
 
 #EXTINF:4 tvg-id="livedukun.id" tvg-logo="https://i.ibb.co/NYdvQTq/ezgif-frame-052-modified.png" group-title="Live Event",[LIVE 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/zhuszozszxosfb Firefox/31.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/zhuszozszxoszdo Firefox/31.0
 https://dukuntvs.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/live/live2
 
 #EXTINF:5 tvg-id="livedukun.id" tvg-logo="https://i.ibb.co/NYdvQTq/ezgif-frame-052-modified.png" group-title="Live Event",[LIVE 3]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/zhuszozszxosfb Firefox/31.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/zhuszozszxoszdo Firefox/31.0
 https://dukuntvs.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/live/live3
 
 #EXTINF:6 tvg-id="livedukun.id" tvg-logo="https://i.ibb.co/NYdvQTq/ezgif-frame-052-modified.png" group-title="Live Event",[LIVE 4]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/zhuszozszxosfb Firefox/31.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/zhuszozszxoszdo Firefox/31.0
 https://dukuntvs.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/live/live4
 
 #EXTINF:6 tvg-id="livedukun.id" tvg-logo="https://i.ibb.co/NYdvQTq/ezgif-frame-052-modified.png" group-title="Live Event",[LIVE 5]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/zhuszozszxosfb Firefox/31.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/zhuszozszxoszdo Firefox/31.0
 https://dukuntvs.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/live/live5
 
 
 
-#EXTINF:3 tvg-id="world1.dukun" tvg-logo="https://i.ibb.co/RNnBnL7/maxresdefault-3-modified.png" group-title="Live Event",[LIVE World Cup 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/zhuszozszxosfb Firefox/31.0
-https://dukuntvs.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/live/world1
+#EXTINF:3 tvg-id="livedukun.id" tvg-logo="https://i.ibb.co/ChQtH14/317236978-modified.png" group-title="Live Event",[LIVE Liga 1 Indonesia 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/zhuszozszxoszdo Firefox/31.0
+https://dukuntvs.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/live/liga11
 
-#EXTINF:4 tvg-id="world2.dukun" tvg-logo="https://i.ibb.co/RNnBnL7/maxresdefault-3-modified.png" group-title="Live Event",[LIVE World Cup 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/zhuszozszxosfb Firefox/31.0
-https://dukuntvs.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/live/world2
-
-#EXTINF:5 tvg-id="world3.dukun" tvg-logo="https://i.ibb.co/RNnBnL7/maxresdefault-3-modified.png" group-title="Live Event",[LIVE World Cup 3]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/zhuszozszxosfb Firefox/31.0
-https://dukuntvs.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/live/world3
-
-#EXTINF:5 tvg-id="world4.dukun" tvg-logo="https://i.ibb.co/RNnBnL7/maxresdefault-3-modified.png" group-title="Live Event",[LIVE World Cup 4]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/zhuszozszxosfb Firefox/31.0
-https://dukuntvs.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/live/world4
+#EXTINF:4 tvg-id="livedukun.id" tvg-logo="https://i.ibb.co/ChQtH14/317236978-modified.png" group-title="Live Event",[LIVE Liga 1 Indonesia 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/zhuszozszxoszdo Firefox/31.0
+https://dukuntvs.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/live/liga12
 
 
 
 #EXTINF:3 tvg-id="livedukun.id" tvg-logo="https://i.ibb.co/8bfXzQb/k-Yxk-Tji-E-400x400-modified.png" group-title="Live Event",[LIVE NBA 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/zhuszozszxosfb Firefox/31.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/zhuszozszxoszdo Firefox/31.0
 https://dukuntvs.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/live/nba1
 
 #EXTINF:4 tvg-id="livedukun.id" tvg-logo="https://i.ibb.co/8bfXzQb/k-Yxk-Tji-E-400x400-modified.png" group-title="Live Event",[LIVE NBA 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/zhuszozszxosfb Firefox/31.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/zhuszozszxoszdo Firefox/31.0
 https://dukuntvs.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/live/nba2
 
 #EXTINF:5 tvg-id="livedukun.id" tvg-logo="https://i.ibb.co/8bfXzQb/k-Yxk-Tji-E-400x400-modified.png" group-title="Live Event",[LIVE NBA 3]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/zhuszozszxosfb Firefox/31.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/zhuszozszxoszdo Firefox/31.0
 https://dukuntvs.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/live/nba3
 
 
 
 #EXTINF:3 tvg-id="livedukun.id" tvg-logo="https://i.ibb.co/VMv5D94/Desain-tanpa-judul-2022-10-08-T212846-290-modified.png" group-title="Live Event",[LIVE NFL/Rugby 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/zhuszozszxosfb Firefox/31.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/zhuszozszxoszdo Firefox/31.0
 https://dukuntvs.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/live/nfl1
 
 #EXTINF:3 tvg-id="livedukun.id" tvg-logo="https://i.ibb.co/VMv5D94/Desain-tanpa-judul-2022-10-08-T212846-290-modified.png" group-title="Live Event",[LIVE NFL/Rugby 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/zhuszozszxosfb Firefox/31.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/zhuszozszxoszdo Firefox/31.0
 https://dukuntvs.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/live/nfl2
 
 #EXTINF:3 tvg-id="livedukun.id" tvg-logo="https://i.ibb.co/VMv5D94/Desain-tanpa-judul-2022-10-08-T212846-290-modified.png" group-title="Live Event",[LIVE NFL/Rugby 3]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/zhuszozszxosfb Firefox/31.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/zhuszozszxoszdo Firefox/31.0
 https://dukuntvs.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/live/nfl3
 
 
@@ -87,7 +79,7 @@ https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39
 
 #EXTINF:-1 tvg-id="RCTI.id" tvg-logo="https://i.ibb.co/NSLcYJH/channel-80-modified.png" group-title="Lokal",RCTI
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/zhuszozszxosfb Firefox/31.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/zhuszozszxoszdo Firefox/31.0
 https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/lokal/rctifix.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -97,7 +89,7 @@ https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39
 
 #EXTINF:-1 tvg-id="GTV.id" tvg-logo="https://i.ibb.co/B2fCbY1/channel-81-modified.png" group-title="Lokal",GTV
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/zhuszozszxosfb Firefox/31.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/zhuszozszxoszdo Firefox/31.0
 https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/lokal/gtvfix.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -107,33 +99,38 @@ https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39
 
 #EXTINF:-1 tvg-id="MNCTV.id" tvg-name="mnctv" tvg-logo="https://i.ibb.co/YW131Xz/images-modified.png" group-title="Lokal",MNC TV
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/zhuszozszxosfb Firefox/31.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/zhuszozszxoszdo Firefox/31.0
 https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/lokal/mnctvfix.m3u8
 
 #EXTINF:-1 tvg-id="Indosiar.id" tvg-logo="https://thumbor.prod.vid.id/1gl_OViRhInfE1_Scn6ve40g7FY=/112x112/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/205/54ab19.png" group-title="Lokal",Indosiar
-#EXTVLCOPT:http-user-agent=zhuszozszxosfb
+#EXTVLCOPT:http-user-agent=zhuszozszxoszdo
 https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/lokal/indosiar
+#https://production-drm-vidio-com-event-10.akamaized.net/out/v1/194c465439d64a83ba65537ca86180a3/index.mpd
+#https://production-drm-vidio-com-event-7.akamaized.net/out/v1/fb3777ee16104dcd8722bb42560cef6f/index.mpd
+#https://production-drm-vidio-com-event-8.akamaized.net/out/v1/5bfe18929905440498f6eb7504c4028f/index.mpd
+#https://drm-epl-vidio-com-epl-5.akamaized.net/out/v1/5ccff59807d04aa1a59ebd3e629a6c6a/index.mpd
+
 
 #EXTINF:-1 tvg-id="Indosiar.id" tvg-logo="https://thumbor.prod.vid.id/1gl_OViRhInfE1_Scn6ve40g7FY=/112x112/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/205/54ab19.png" group-title="Lokal",Indosiar
-#EXTVLCOPT:http-user-agent=zhuszozszxosfb
+#EXTVLCOPT:http-user-agent=zhuszozszxoszdo
 https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/lokal/indosiar2
 
 #EXTINF:-1 tvg-id="SCTV.id" tvg-logo="https://thumbor.prod.vid.id/cV7suiKWlj2Bj0Igw03BOf5VCvw=/112x112/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/204/4e9f5c.png" group-title="Lokal",SCTV
-#EXTVLCOPT:http-user-agent=zhuszozszxosfb
+#EXTVLCOPT:http-user-agent=zhuszozszxoszdo
 https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/lokal/sctv1.m3u8
 #https://drm-epl-vidio-com-epl-1.akamaized.net/out/v1/1b34ee57680f49229adaa19b74a9b60d/index.mpd
 
 #EXTINF:-1 tvg-id="SCTV.id" tvg-logo="https://thumbor.prod.vid.id/cV7suiKWlj2Bj0Igw03BOf5VCvw=/112x112/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/204/4e9f5c.png" group-title="Lokal",SCTV
-#EXTVLCOPT:http-user-agent=zhuszozszxosfb
+#EXTVLCOPT:http-user-agent=zhuszozszxoszdo
 https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/lokal/sctv2
 
 #EXTINF:-1 tvg-id=""ANTV.id" tvg-logo="https://thumbor.prod.vid.id/FpGpG_N1noubGtSI38Ek1bo0pf8=/112x112/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/782/e1af8b.png" group-title="Lokal", ANTV
-#EXTVLCOPT:http-user-agent=zhuszozszxosfb
+#EXTVLCOPT:http-user-agent=zhuszozszxoszdo
 https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/lokal/antv1.m3u8
 
 #EXTINF:-1 tvg-id=""ANTV.id" tvg-logo="https://thumbor.prod.vid.id/FpGpG_N1noubGtSI38Ek1bo0pf8=/112x112/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/782/e1af8b.png" group-title="Lokal", ANTV
-#EXTVLCOPT:http-user-agent=zhuszozszxosfb
-https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/lokal/antv2.m3u8
+#EXTVLCOPT:http-user-agent=zhuszozszxoszdo
+https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/lokal/antv2
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://dukun.masuk.id/drm/punyadukun
@@ -141,55 +138,55 @@ https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39
 https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/lokal/net.mpd
 
 #EXTINF:-1 tvg-id="NET.id" tvg-logo="https://thumbor.prod.vid.id/GR_UBfQpa8xxCbFYptSZ3egm-kU=/112x112/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/875/cfcc85.png" group-title="Lokal",NET
-#EXTVLCOPT:http-user-agent=zhuszozszxosfb
+#EXTVLCOPT:http-user-agent=zhuszozszxoszdo
 https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/lokal/net2
 
 #EXTINF:-1 tvg-id="TransTV.id" tvg-logo="https://thumbor.prod.vid.id/I5QlX5A46bifAC7ib269aQhzP3Q=/112x112/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/733/ecaa60.png" group-title="Lokal",Trans TV
-#EXTVLCOPT:http-user-agent=zhuszozszxosfb
+#EXTVLCOPT:http-user-agent=zhuszozszxoszdo
 https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/lokal/transtv.m3u8
 
 #EXTINF:-1 tvg-id="TransTV.id" tvg-logo="https://thumbor.prod.vid.id/I5QlX5A46bifAC7ib269aQhzP3Q=/112x112/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/733/ecaa60.png" group-title="Lokal",Trans TV
-#EXTVLCOPT:http-user-agent=zhuszozszxosfb
+#EXTVLCOPT:http-user-agent=zhuszozszxoszdo
 https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/lokal/transtv1.m3u8
 
 #EXTINF:-1 tvg-id="Trans7.id" tvg-logo="https://thumbor.prod.vid.id/ksy91mCjoKvOD2anneLgskaBLRA=/112x112/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/734/131514.png" group-title="Lokal",Trans 7
-#EXTVLCOPT:http-user-agent=zhuszozszxosfb
+#EXTVLCOPT:http-user-agent=zhuszozszxoszdo
 https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/lokal/trans7.m3u8
 
 #EXTINF:-1 tvg-id="Trans7.id" tvg-logo="https://thumbor.prod.vid.id/ksy91mCjoKvOD2anneLgskaBLRA=/112x112/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/734/131514.png" group-title="Lokal",Trans 7
-#EXTVLCOPT:http-user-agent=zhuszozszxosfb
+#EXTVLCOPT:http-user-agent=zhuszozszxoszdo
 https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/lokal/trans72.m3u8
 
 #EXTINF:-1 tvg-id="MetroTV.id" tvg-logo="https://thumbor.prod.vid.id/ydRJrj3WJ-ycS2KJw19CZn6XQkg=/112x112/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/777/ea8483.png" group-title="Lokal",METRO TV
-#EXTVLCOPT:http-user-agent=zhuszozszxosfb
+#EXTVLCOPT:http-user-agent=zhuszozszxoszdo
 https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/lokal/metrotv.m3u8
 
 #EXTINF:-1 tvg-id="KompasTV.id" tvg-logo="https://thumbor.prod.vid.id/PPmP4ZZL9zYXq23d2ltlo8LYChQ=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/874/042ca3.png" group-title="Lokal",KOMPAS TV
-#EXTVLCOPT:http-user-agent=zhuszozszxosfb
+#EXTVLCOPT:http-user-agent=zhuszozszxoszdo
 https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/lokal/kompas.m3u8
 
 #EXTINF:-1 tvg-id="tvOne.id" tvg-logo="https://thumbor.prod.vid.id/LbunykRPWkmRYi-RN4xt9EMf9_E=/112x112/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/783/d658d0.png" group-title="Lokal",TVOne
-#EXTVLCOPT:http-user-agent=zhuszozszxosfb
+#EXTVLCOPT:http-user-agent=zhuszozszxoszdo
 https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/lokal/tvone1.m3u8
 
 #EXTINF:-1 tvg-id="TVRINasional.id" tvg-logo="https://thumbor.prod.vid.id/CHQ7jG2pWgk7OSBt-Sw8ZK1MB9U=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6441/528cc9.png" group-title="Lokal",TVRI Nasional
 https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/lokal/tvri.m3u8
 
 #EXTINF:-1 tvg-id="OChannel.id" tvg-logo="https://thumbor.prod.vidiocdn.com/tmmSRk4XtrU7uWrqXmu0m_22RSM=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/206/a11dc1.png" group-title="Lokal",Moji
-#EXTVLCOPT:http-user-agent=zhuszozszxosfb
+#EXTVLCOPT:http-user-agent=zhuszozszxoszdo
 https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/lokal/ochanneldukunetdahluapainnih.m3u8
 #https://drm-epl-vidio-com-epl-3.akamaized.net/out/v1/71829de864884cb0b831334ac3dc0a2a/index.mpd
 
 #EXTINF:-1 tvg-id="OChannel.id" tvg-logo="https://thumbor.prod.vidiocdn.com/tmmSRk4XtrU7uWrqXmu0m_22RSM=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/206/a11dc1.png" group-title="Lokal",Moji
-#EXTVLCOPT:http-user-agent=zhuszozszxosfb
+#EXTVLCOPT:http-user-agent=zhuszozszxoszdo
 https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/lokal/ochannel1
 
 #EXTINF:-1 tvg-id="RajawaliTV.id" tvg-logo="https://thumbor.prod.vid.id/NEU5NOM51mtJVYE4bI4iP2bLSCs=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/1561/665aea.png" group-title="Lokal",RTV
-#EXTVLCOPT:http-user-agent=zhuszozszxosfb
+#EXTVLCOPT:http-user-agent=zhuszozszxoszdo
 https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/lokal/rtv1.m3u8
 
 #EXTINF:-1 tvg-id="RajawaliTV.id" tvg-logo="https://thumbor.prod.vid.id/NEU5NOM51mtJVYE4bI4iP2bLSCs=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/1561/665aea.png" group-title="Lokal",RTV
-#EXTVLCOPT:http-user-agent=zhuszozszxosfb
+#EXTVLCOPT:http-user-agent=zhuszozszxoszdo
 https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/lokal/rtv3.m3u8
 
 #EXTINF:-1 tvg-id="CNNIndonesia.id" tvg-logo="https://i.ibb.co/c3dqtrG/Logo-CNN-Indonesia-Peta-Indonesia-modified.png" group-title="Lokal",CNN Indonesia
@@ -205,46 +202,46 @@ https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39
 
 #EXTINF:-1 tvg-id="INews.id" tvg-logo="https://i.ibb.co/Z8zTYMd/62550521-2221755784545427-6717567406312521728-n-modified.png" group-title="Lokal",INews
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/zhuszozszxosfb Firefox/31.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/zhuszozszxoszdo Firefox/31.0
 https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/lokal/inewsfix.m3u8
 
 #EXTINF:-1 tvg-id="IDXChannel.id" tvg-logo="https://i.ibb.co/NT5hpG7/unnamed-5-modified.png" group-title="Lokal",IDX Channel
-#EXTVLCOPT:http-user-agent=zhuszozszxosfb
+#EXTVLCOPT:http-user-agent=zhuszozszxoszdo
 https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/lokal/idx.m3u8
 
 #EXTINF:-1 tvg-id="BeritaSatu.id" tvg-logo="https://thumbor.prod.vidiocdn.com/DKANEUKIVCBG1x62TxXS33Tue0g=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6165/a712b0.png" group-title="Lokal",Berita Satu
 https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/lokal/beritasatu.m3u8
 
 #EXTINF:-1 tvg-id="TVEdukasi.id" tvg-logo="https://thumbor.prod.vidiocdn.com/Mm-q_EM4-t_oqza3f7Wm0tV_mDU=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6838/eab36f.png" group-title="Lokal",TV Edukasi
-#EXTVLCOPT:http-user-agent=zhuszozszxosfb
+#EXTVLCOPT:http-user-agent=zhuszozszxoszdo
 https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/lokal/tvedukasi.m3u8
 
 #EXTINF:-1 tvg-id="DaAiTVIndonesia.id" tvg-logo="https://thumbor.prod.vidiocdn.com/0r_rhIVANc6dsGvQ76616ZSqF04=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6482/e83fcf.png" group-title="Lokal",DAAI TV
-#EXTVLCOPT:http-user-agent=zhuszozszxosfb
+#EXTVLCOPT:http-user-agent=zhuszozszxoszdo
 https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/lokal/daai.m3u8
 
 #EXTINF:-1 tvg-id="NusantaraTV.id" tvg-logo="https://i.ibb.co/0MSdf50/bfecbc-modified.png" group-title="Lokal",Nusantara TV
-#EXTVLCOPT:http-user-agent=zhuszozszxosfb
+#EXTVLCOPT:http-user-agent=zhuszozszxoszdo
 https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/lokal/nusantara.m3u8
 
 #EXTINF:-1 tvg-id="Magna.id" tvg-logo="https://i.ibb.co/pZWS87T/7d6bf5-modified.png" group-title="Lokal",Magna Channel
-#EXTVLCOPT:http-user-agent=zhuszozszxosfb
+#EXTVLCOPT:http-user-agent=zhuszozszxoszdo
 https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/lokal/magna.m3u8
 
 #EXTINF:-1 tvg-id="MyTV.id" tvg-logo="https://thumbor.prod.vidiocdn.com/QsmCIj-NulKL5RN6XJOXJEm4_N4=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6711/01d538.png" group-title="Lokal",MyTV
-#EXTVLCOPT:http-user-agent=zhuszozszxosfb
+#EXTVLCOPT:http-user-agent=zhuszozszxoszdo
 https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/lokal/mytv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/tcpp1x4/rri-net-modified.png" group-title="Lokal",RRI NET
-#EXTVLCOPT:http-user-agent=zhuszozszxosfb
+#EXTVLCOPT:http-user-agent=zhuszozszxoszdo
 https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/lokal/rri.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/0yw3hNY/unnamed-2-modified.png" group-title="Lokal",The Indonesia Channel
-#EXTVLCOPT:http-user-agent=zhuszozszxosfb
+#EXTVLCOPT:http-user-agent=zhuszozszxoszdo
 https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/lokal/tic.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/k2drDZ9/download-1-modified.png" group-title="Lokal",Garuda TV
-#EXTVLCOPT:http-user-agent=zhuszozszxosfb
+#EXTVLCOPT:http-user-agent=zhuszozszxoszdo
 https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/lokal/garudatv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/CHr0k6T/2019-09-30-09-47-24-cdv-photo-003-modified.png" group-title="Lokal",Elshinta TV
@@ -252,23 +249,23 @@ https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39
 https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/lokal/elshinta.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/X8YyGfH/Inspira-TV-live-streaming-modified.png" group-title="Lokal",Inspira TV
-#EXTVLCOPT:http-user-agent=zhuszozszxosfb
+#EXTVLCOPT:http-user-agent=zhuszozszxoszdo
 https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/lokal/inspira.m3u8
 
 #EXTINF:-1 tvg-id="AntaraTV.dukun" tvg-logo="https://i.ibb.co/k162Wmg/antara-tv-200x200-modified.png" group-title="Lokal",Antara TV
-#EXTVLCOPT:http-user-agent=zhuszozszxosfb
+#EXTVLCOPT:http-user-agent=zhuszozszxoszdo
 https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/lokal/antara.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/4gS99DK/unnamed-23-modified.png" group-title="Lokal",Mata Milenial Indonesia TV
-#EXTVLCOPT:http-user-agent=zhuszozszxosfb
+#EXTVLCOPT:http-user-agent=zhuszozszxoszdo
 https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/lokal/mmi.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/xqSG154/Indonesiana-TV-1-modified.png" group-title="Lokal",Indonesiana TV
-#EXTVLCOPT:http-user-agent=zhuszozszxosfb
+#EXTVLCOPT:http-user-agent=zhuszozszxoszdo
 https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/lokal/indonesiana.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/QnX1FJ1/Logo-JPM-Jawapos-modified.png" group-title="Lokal",JPM TV
-#EXTVLCOPT:http-user-agent=zhuszozszxosfb
+#EXTVLCOPT:http-user-agent=zhuszozszxoszdo
 https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/lokal/jpm.m3u8
 
 
@@ -277,11 +274,11 @@ https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39
 https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/tips.m3u8
 
 #EXTINF:-1 tvg-id="UseeSports.dukun" tvg-logo="https://i.ibb.co/wcyS6n2/Desain-tanpa-judul-82-modified.png" group-title="Olahraga", Usee Sports 1
-#EXTVLCOPT:http-user-agent=zhuszozszxosfb
+#EXTVLCOPT:http-user-agent=zhuszozszxoszdo
 https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/olahraga/usee1.m3u8
 
 #EXTINF:-1 tvg-id="UseeSports2.dukun" tvg-logo="https://i.ibb.co/TwbSJyb/Desain-tanpa-judul-83-modified.png" group-title="Olahraga", Usee Sports 2
-#EXTVLCOPT:http-user-agent=zhuszozszxosfb
+#EXTVLCOPT:http-user-agent=zhuszozszxoszdo
 https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/olahraga/usee2.m3u8
 
 #EXTINF:-1 tvg-id="SPOTV.kr" tvg-logo="https://i.ibb.co/C5gD7th/file-7408e006-5492-4b54-aa54-581581b2d87b-modified.png" group-title="Olahraga",SPOTV 1
@@ -294,13 +291,13 @@ https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39a
 https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/olahraga/t.m3u8
 
 #EXTINF:-1 tvg-id="GolfChannel.us" tvg-logo="https://i.ibb.co/1qTVyMs/unnamed-10-modified-1.png" group-title="Olahraga",Golf Channel
-#EXTVLCOPT:http-referrer=https://olacast.live/
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
 https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/olahraga/golf
 
 #EXTINF:-1 tvg-id="Match.ru" tvg-logo="https://i.ibb.co/hXvFz0k/download-16-modified-2.png" group-title="Olahraga",Match TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
-https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/olahraga/match
+https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/olahraga/matchtv
 
 #EXTINF:-1 tvg-id="MatchArena.ru" tvg-logo="https://i.ibb.co/Qkpf5qD/download-33-modified.png" group-title="Olahraga",Match Arena
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
@@ -308,17 +305,17 @@ http://mfe.cliptv.az/dash/Match_Arena_HD.ism/playlist.mpd
 #https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/olahraga/matcharena
 
 #EXTINF:-1 tvg-id="MatchFutbol1.ru" tvg-logo="https://i.ibb.co/G93qf4V/download-34-modified.png" group-title="Olahraga",Match Futbol 1
-#EXTVLCOPT:http-referrer=https://olacast.live/
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
 https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/olahraga/matchft1
 
 #EXTINF:-1 tvg-id="MatchFutbol2.ru" tvg-logo="https://i.ibb.co/bd2hydL/tv-station-match-football-2-734-modified.png" group-title="Olahraga",Match Futbol 2
-#EXTVLCOPT:http-referrer=https://olacast.live/
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
 https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/olahraga/matchft2
 
 #EXTINF:-1 tvg-id="MatchFutbol3.ru" tvg-logo="https://i.ibb.co/1fkJWjv/tv-station-match-football-3-735-modified.png" group-title="Olahraga",Match Futbol 3
-#EXTVLCOPT:http-referrer=https://olacast.live/
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
 https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/olahraga/matchft3
 
@@ -356,15 +353,15 @@ https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39a
 https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/olahraga/boxing.m3u8
 
 #EXTINF:-1 tvg-id="WWENetwork.us" tvg-logo="https://i.ibb.co/nw9ysdT/WWE-Network-logo-modified.png" group-title="Olahraga",WWE Network
-#EXTVLCOPT:http-referrer=https://olacast.live/
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
 https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/olahraga/wwe
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; VOW64; rv:31.0) Gecko/20101201 Firefox/31.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; VOW64; rv:31.0) Gecko/zhuszozszxoszdo Firefox/31.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://dukun.masuk.id/drm/akuniapa
+#KODIPROP:inputstream.adaptive.license_key=https://punya.dukun.masuk.id/drm/nba
 #EXTINF:-1 tvg-id="NBATV.us" tvg-logo="https://i.ibb.co/ZXny9cD/NBA-TV-modified.png" group-title="Olahraga",NBA TV
-https://chromecast.cvattv.com.ar/live/c6eds/NBA_TV/SA_Live_dash_enc_2A/NBA_TV.mpd
+https://production-drm-vidio-com-nba.akamaized.net/out/v1/6cca0501a28e4ad78cd94cb695cb1162/index.mpd
 
 #EXTINF:-1 tvg-id="eGGNetwork.my" tvg-logo="https://i.ibb.co/FgTYk4t/egg-modified.png" group-title="Olahraga",EGG Network
 #EXTVLCOPT:http-user-agent=Lavf/56.15.102
@@ -380,27 +377,28 @@ https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39a
 https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/olahraga/tvrisport.m3u8
 
 #EXTINF:-1 tvg-id="ChampionsTV1.id" tvg-logo="https://thumbor.prod.vidiocdn.com/uPRFvIIkgDkbWnzmPaUTTEBdbQU=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6685/5add43.png" group-title="Olahraga",Champions TV 1
-#EXTVLCOPT:http-user-agent=zhuszozszxosfb
+#EXTVLCOPT:http-user-agent=zhuszozszxoszdo
 https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/olahraga/champ1etdahlluapainnih
 
 #EXTINF:-1 tvg-id="ChampionsTV2.id" tvg-logo="https://thumbor.prod.vidiocdn.com/czBGyoVEbdU5E64ZH88sgEfmWXg=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6686/14270d.png" group-title="Olahraga",Champions TV 2
-#EXTVLCOPT:http-user-agent=zhuszozszxosfb
+#EXTVLCOPT:http-user-agent=zhuszozszxoszdo
 https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/olahraga/champ2etdahlluapainnih
 
 #EXTINF:-1 tvg-id="ChampionsTV3.id" tvg-logo="https://thumbor.prod.vidiocdn.com/RoE6gTfzYNnm1APnwvK_Bi7j_-Y=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6786/d2ebc5.png" group-title="Olahraga",Champions TV 3
-#EXTVLCOPT:http-user-agent=zhuszozszxosfb
+#EXTVLCOPT:http-user-agent=zhuszozszxoszdo
 https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/olahraga/champ3etdahlluapainnih
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; VOW64; rv:31.0) Gecko/zhuszozszxosfb Firefox/31.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; VOW64; rv:31.0) Gecko/zhuszozszxoszdo Firefox/31.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://punya.dukun.masuk.id/drm/champ4
-#EXTINF:-1 tvg-id="ChampionsTV4.id" tvg-logo="https://thumbor.prod.vidiocdn.com/BNvg3XY4KhCt9r85x8k72XQHV1k=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7953/448640.png" group-title="Olahraga",Champions TV 4
-https://production-drm-vidio-com-event-4.akamaized.net/out/v1/f5e1e4dc70e54d2eb4020b7af8eeb925/index.mpd
-#https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/olahraga/champ4.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://punya.dukun.masuk.id/drm/champ5
+#EXTINF:-1 tvg-id="ChampionsTV4.id" tvg-logo="https://thumbor.prod.vidiocdn.com/GXoqO-37dpK1N2ltYFsFt-HZauk=/64x64/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/9182/13b733.png" group-title="Olahraga",Champions TV 5
+https://production-drm-vidio-com-ctv-5.akamaized.net/out/v1/6b83fda0adee41598d5e1a7097ddb8b5/index.mpd
 
-#EXTINF:-1 tvg-id="ChampionsTVGoal.id" tvg-logo="https://thumbor.prod.vidiocdn.com/LleNBdFSjLeakChDVn7zYWPf87k=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/9045/1ef303.png" group-title="Olahraga",Champions TV Goal
-#EXTVLCOPT:http-user-agent=zhuszozszxosfb
-https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/olahraga/champgoaletdahlluapainnih
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; VOW64; rv:31.0) Gecko/zhuszozszxoszdo Firefox/31.0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://punya.dukun.masuk.id/drm/champ6
+#EXTINF:-1 tvg-id="ChampionsTV4.id" tvg-logo="https://thumbor.prod.vidiocdn.com/BNvg3XY4KhCt9r85x8k72XQHV1k=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7953/448640.png" group-title="Olahraga",Champions TV 6
+https://prod-drm-vidio-com-ctv-6.akamaized.net/out/v1/8ecc1b702b4a4871b51304a9cb82d561/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://dukun.masuk.id/drm/result.php?keyid=ce17264b317db108f19cdc11aa1a9e66&key=a21188aee8fc5c56d016fcffcc6b2295
@@ -458,42 +456,42 @@ https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39a
 https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/olahraga/astroarena2
 
 #EXTINF:-1 tvg-id="AstroCricket.my" tvg-logo="https://i.ibb.co/DfRknF0/s202110040138065-178-266-removebg-preview-modified.png" group-title="Olahraga",Astro Cricket
-#EXTVLCOPT:http-referrer=https://olacast.live/
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
 https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/olahraga/astrocricket
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/FKbFB4W/Desain-tanpa-judul-4-modified.png" group-title="Olahraga",Astro FWC 1
-#EXTVLCOPT:http-referrer=https://olacast.live/
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/nBZkdLV/astro-wc-qatar-modified.png" group-title="Olahraga",Astro FWC 1
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
 https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/olahraga/astrofwc1
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/FKbFB4W/Desain-tanpa-judul-4-modified.png" group-title="Olahraga",Astro FWC 2
-#EXTVLCOPT:http-referrer=https://olacast.live/
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/nBZkdLV/astro-wc-qatar-modified.png" group-title="Olahraga",Astro FWC 2
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
 https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/olahraga/astrofwc2
 
 #EXTINF:-1 tvg-id="AstroSuperSport.my" tvg-logo="https://i.ibb.co/FKbFB4W/Desain-tanpa-judul-4-modified.png" group-title="Olahraga",Astro SuperSport 1
-#EXTVLCOPT:http-referrer=https://olacast.live/
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
 https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/olahraga/astro1
 
 #EXTINF:-1 tvg-id="AstroSuperSport2.my" tvg-logo="https://i.ibb.co/RCTSn6n/Desain-tanpa-judul-5-modified.png" group-title="Olahraga",Astro SuperSport 2
-#EXTVLCOPT:http-referrer=https://olacast.live/
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
 https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/olahraga/astro2
 
 #EXTINF:-1 tvg-id="AstroSuperSport3.my" tvg-logo="https://i.ibb.co/N9BVfKB/Desain-tanpa-judul-6-modified.png" group-title="Olahraga",Astro SuperSport 3
-#EXTVLCOPT:http-referrer=https://olacast.live/
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
 https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/olahraga/astro3
 
 #EXTINF:-1 tvg-id="AstroSuperSport4.my" tvg-logo="https://i.ibb.co/tKj8ZG9/Desain-tanpa-judul-7-modified.png" group-title="Olahraga",Astro SuperSport 4
-#EXTVLCOPT:http-referrer=https://olacast.live/
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
 https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/olahraga/astro4
 
 #EXTINF:-1 tvg-id="AstroSuperSport5.my" tvg-logo="https://i.ibb.co/dGvfNvs/Desain-tanpa-judul-8-modified.png" group-title="Olahraga",Astro SuperSport 5
-#EXTVLCOPT:http-referrer=https://olacast.live/
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
 https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/olahraga/astro5
 
@@ -591,32 +589,32 @@ https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39
 https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/olahraga/sport6
 
 #EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-logo="https://i.ibb.co/WPL9Gpw/Desain-tanpa-judul-28-modified-1.png" group-title="Olahraga",Sky Sports Football
-#EXTVLCOPT:http-referrer=https://olacast.live/
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
 https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/olahraga/skyfootball
 
 #EXTINF:-1 tvg-id="SkySportsArena.uk" tvg-logo="https://i.ibb.co/YZTdPz8/Desain-tanpa-judul-29-modified.png" group-title="Olahraga",Sky Sports Arena
-#EXTVLCOPT:http-referrer=https://olacast.live/
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
 https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/olahraga/skyarena
 
 #EXTINF:-1 tvg-id="SkySportsAction.uk" tvg-logo="https://i.ibb.co/2ghs68G/Desain-tanpa-judul-30-modified.png" group-title="Olahraga",Sky Sports Action
-#EXTVLCOPT:http-referrer=https://olacast.live/
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
 https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/olahraga/skyaction
 
 #EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-logo="https://i.ibb.co/tMGtqdc/Desain-tanpa-judul-31-modified.png" group-title="Olahraga",Sky Sports Main Event
-#EXTVLCOPT:http-referrer=https://olacast.live/
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
 https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/olahraga/skymain
 
 #EXTINF:-1 tvg-id="SkySportsPremierLeague.uk" tvg-logo="https://i.ibb.co/88CjXqT/Desain-tanpa-judul-56-modified.png" group-title="Olahraga",Sky Sports Premier League
-#EXTVLCOPT:http-referrer=https://olacast.live/
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
 https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/olahraga/skypremier
 
 #EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-logo="https://i.ibb.co/88XwF6F/Desain-tanpa-judul-32-modified.png" group-title="Olahraga",Sky Sports F1
-#EXTVLCOPT:http-referrer=https://olacast.live/
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
 https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/olahraga/skyf1
 
@@ -625,16 +623,16 @@ https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39a
 https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/olahraga/skygp
 
 #EXTINF:-1 tvg-id="SkySportUno.it" tvg-logo="https://i.ibb.co/VTPmJTt/Desain-tanpa-judul-2022-10-11-T152544-315-modified.png" group-title="Olahraga",Sky Sports Uno
-#EXTVLCOPT:http-referrer=https://olacast.live/
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
 https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/olahraga/skyuno
 
 #EXTINF:-1 tvg-id="SkySportsMix.uk" tvg-logo="https://i.ibb.co/MG1365Q/Desain-tanpa-judul-2022-10-11-T152605-761-modified.png" group-title="Olahraga",Sky Sports Mix
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/zhuszozszxosfb Firefox/31.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/zhuszozszxoszdo Firefox/31.0
 https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/olahraga/skymix
 
 #EXTINF:-1 tvg-id="SkySportsCricket.uk" tvg-logo="https://i.ibb.co/31gt3hf/Desain-tanpa-judul-33-modified.png" group-title="Olahraga",Sky Sports Cricket
-#EXTVLCOPT:http-referrer=https://olacast.live/
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
 https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/olahraga/skycricket
 
@@ -643,32 +641,32 @@ https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39a
 https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/olahraga/skynfl
 
 #EXTINF:-1 tvg-id="SkySportsGolf.uk" tvg-logo="https://i.ibb.co/cbtc1M3/Desain-tanpa-judul-34-modified.png" group-title="Olahraga",Sky Sports Golf
-#EXTVLCOPT:http-referrer=https://olacast.live/
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
 https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/olahraga/skygolf
 
 #EXTINF:-1 tvg-id="SkySportsRacing.uk" tvg-logo="https://i.ibb.co/6v398mJ/Desain-tanpa-judul-35-modified.png" group-title="Olahraga",Sky Sports Racing
-#EXTVLCOPT:http-referrer=https://olacast.live/
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
 https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/olahraga/skyracing
 
 #EXTINF:-1 tvg-id="BTSport1.uk" tvg-logo="https://i.ibb.co/Tk4gX8z/unnamed-24-modified.png" group-title="Olahraga",BT Sport 1
-#EXTVLCOPT:http-referrer=https://olacast.live/
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
 https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/olahraga/bt1
 
 #EXTINF:-1 tvg-id="BTSport2.uk" tvg-logo="https://i.ibb.co/Tk4gX8z/unnamed-24-modified.png" group-title="Olahraga",BT Sport 2
-#EXTVLCOPT:http-referrer=https://olacast.live/
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
 https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/olahraga/bt2
 
 #EXTINF:-1 tvg-id="BTSport3.uk" tvg-logo="https://i.ibb.co/Tk4gX8z/unnamed-24-modified.png" group-title="Olahraga",BT Sport 3
-#EXTVLCOPT:http-referrer=https://olacast.live/
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
 https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/olahraga/bt3
 
 #EXTINF:-1 tvg-id="BTSport4.uk" tvg-logo="https://i.ibb.co/Tk4gX8z/unnamed-24-modified.png" group-title="Olahraga",BT Sport 4
-#EXTVLCOPT:http-referrer=https://olacast.live/
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
 https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/olahraga/btespn
 
@@ -692,98 +690,100 @@ https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
 https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/olahraga/bt9
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; VOW64; rv:31.0) Gecko/zhuszozszxoszdo Firefox/31.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://dukun.masuk.id/drm/punyadukun
+#KODIPROP:inputstream.adaptive.license_key=https://punya.dukun.masuk.id/drm/bein1
 #EXTINF:-1 tvg-id="beINSports1Indonesia.id" tvg-logo="https://i.ibb.co/d55Yhf3/Desain-tanpa-judul-11-modified.png" group-title="Olahraga",Bein 1 ID
-https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/olahraga/bein1.mpd
+https://etslive-2-vidio-com.akamaized.net/drm/dash/6299_stream.mpd
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; VOW64; rv:31.0) Gecko/zhuszozszxoszdo Firefox/31.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://dukun.masuk.id/drm/punyadukun
+#KODIPROP:inputstream.adaptive.license_key=https://punya.dukun.masuk.id/drm/bein3
 #EXTINF:-1 tvg-id="beINSports3Indonesia.id" tvg-logo="https://i.ibb.co/CQTcfYT/Desain-tanpa-judul-13-modified.png" group-title="Olahraga",Bein 3 ID
-https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/olahraga/bein3.mpd
+https://etslive-2-vidio-com.akamaized.net/drm/dash/6317_stream.mpd
 
 #EXTINF:-1 tvg-id="beINSportsEnglish1.qa" tvg-logo="https://i.ibb.co/YfkCfwq/Desain-tanpa-judul-36-modified.png" group-title="Olahraga",Bein 1 ENG
-#EXTVLCOPT:http-referrer=https://olacast.live/
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
 https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/olahraga/beineng1
 
 #EXTINF:-1 tvg-id="beINSportsEnglish2.qa" tvg-logo="https://i.ibb.co/F8NHsWC/Desain-tanpa-judul-38-modified.png" group-title="Olahraga",Bein 2 ENG
-#EXTVLCOPT:http-referrer=https://olacast.live/
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
 https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/olahraga/beineng2
 
 #EXTINF:-1 tvg-id="beINSportsEnglish3.qa" tvg-logo="https://i.ibb.co/4jmb5ws/Desain-tanpa-judul-37-modified.png" group-title="Olahraga",Bein 3 ENG
-#EXTVLCOPT:http-referrer=https://olacast.live/
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
 https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/olahraga/beineng3
 
 #EXTINF:-1 tvg-id="beINSports1.qa" tvg-logo="https://i.ibb.co/XWzhJZy/Desain-tanpa-judul-1-modified.png" group-title="Olahraga",Bein 1 Arab
-#EXTVLCOPT:http-referrer=https://olacast.live/
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
 https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/olahraga/beinarab1
 
 #EXTINF:-1 tvg-id="beINSports2.qa" tvg-logo="https://i.ibb.co/XWzhJZy/Desain-tanpa-judul-1-modified.png" group-title="Olahraga",Bein 2 Arab
-#EXTVLCOPT:http-referrer=https://olacast.live/
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
 https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/olahraga/beinarab2
 
 #EXTINF:-1 tvg-id="beINSports3.qa" tvg-logo="https://i.ibb.co/XWzhJZy/Desain-tanpa-judul-1-modified.png" group-title="Olahraga",Bein 3 Arab
-#EXTVLCOPT:http-referrer=https://olacast.live/
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
 https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/olahraga/beinarab3
 
 #EXTINF:-1 tvg-id="beINSports4.qa" tvg-logo="https://i.ibb.co/XWzhJZy/Desain-tanpa-judul-1-modified.png" group-title="Olahraga",Bein 4 Arab
-#EXTVLCOPT:http-referrer=https://olacast.live/
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
 https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/olahraga/beinarab4
 
 #EXTINF:-1 tvg-id="beINSports5.qa" tvg-logo="https://i.ibb.co/XWzhJZy/Desain-tanpa-judul-1-modified.png" group-title="Olahraga",Bein 5 Arab
-#EXTVLCOPT:http-referrer=https://olacast.live/
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
 https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/olahraga/beinarab5
 
 #EXTINF:-1 tvg-id="beINSports6.qa" tvg-logo="https://i.ibb.co/XWzhJZy/Desain-tanpa-judul-1-modified.png" group-title="Olahraga",Bein 6 Arab
-#EXTVLCOPT:http-referrer=https://olacast.live/
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
 https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/olahraga/beinarab6
 
 #EXTINF:-1 tvg-id="beINSports7.qa" tvg-logo="https://i.ibb.co/XWzhJZy/Desain-tanpa-judul-1-modified.png" group-title="Olahraga",Bein 7 Arab
-#EXTVLCOPT:http-referrer=https://olacast.live/
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
 https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/olahraga/beinarab7
 
 #EXTINF:-1 tvg-id="beINSportsPremium1.qa" tvg-logo="https://i.ibb.co/fGGJn68/Desain-tanpa-judul-39-modified.png" group-title="Olahraga",Bein 1 Premium
-#EXTVLCOPT:http-referrer=https://olacast.live/
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
 https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/olahraga/beinpremium1
 
 #EXTINF:-1 tvg-id="beINSportsPremium2.qa" tvg-logo="https://i.ibb.co/9hRWGp2/Desain-tanpa-judul-40-modified-1.png" group-title="Olahraga",Bein 2 Premium
-#EXTVLCOPT:http-referrer=https://olacast.live/
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
 https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/olahraga/beinpremium2
 
 #EXTINF:-1 tvg-id="beINSportsPremium3.qa" tvg-logo="https://i.ibb.co/T2qGK1k/Desain-tanpa-judul-41-modified.png" group-title="Olahraga",Bein 3 Premium
-#EXTVLCOPT:http-referrer=https://olacast.live/
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
 https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/olahraga/beinpremium3
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/XWzhJZy/Desain-tanpa-judul-1-modified.png" group-title="Olahraga",Bein 1 Max
-#EXTVLCOPT:http-referrer=https://olacast.live/
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/XWzhJZy/Desain-tanpa-judul-1-modified.png" group-title="Olahraga",Bein 1 Max Qatar
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
 https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/olahraga/bein1max
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/XWzhJZy/Desain-tanpa-judul-1-modified.png" group-title="Olahraga",Bein 2 Max
-#EXTVLCOPT:http-referrer=https://olacast.live/
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/XWzhJZy/Desain-tanpa-judul-1-modified.png" group-title="Olahraga",Bein 2 Max Qatar
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
 https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/olahraga/bein2max
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/XWzhJZy/Desain-tanpa-judul-1-modified.png" group-title="Olahraga",Bein 3 Max
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddyhd.php?id=298
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/XWzhJZy/Desain-tanpa-judul-1-modified.png" group-title="Olahraga",Bein 3 Max Qatar
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
 https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/olahraga/bein3max
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/XWzhJZy/Desain-tanpa-judul-1-modified.png" group-title="Olahraga",Bein 4 Max
-#EXTVLCOPT:http-referrer=https://olacast.live/
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/XWzhJZy/Desain-tanpa-judul-1-modified.png" group-title="Olahraga",Bein 4 Max Qatar
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
 https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/olahraga/bein4max
 
@@ -903,220 +903,222 @@ https://cdn.cvattv.com.ar/live/c3eds/ESPNHD/SA_Live_dash_enc_2A/ESPNHD.mpd
 https://cdn.cvattv.com.ar/live/c3eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc_2A/Fox_Sports_Premiun_HD.mpd
 
 #EXTINF:-1 tvg-id="ESPN.us" tvg-logo="https://i.ibb.co/CVtMtm0/0x0-modified.png" group-title="Olahraga",ESPN USA
-#EXTVLCOPT:http-referrer=https://olacast.live/
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
 https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/olahraga/espn
 
 #EXTINF:-1 tvg-id="ESPN2.us" tvg-logo="https://i.ibb.co/ZHbHK1Z/Desain-tanpa-judul-44-modified.png" group-title="Olahraga",ESPN 2 USA
-#EXTVLCOPT:http-referrer=https://olacast.live/
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
 https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/olahraga/espn2
 
 #EXTINF:-1 tvg-id="ESPNU.us" tvg-logo="https://i.ibb.co/vL4FKJW/Desain-tanpa-judul-45-modified.png" group-title="Olahraga",ESPN U USA
-#EXTVLCOPT:http-referrer=https://olacast.live/
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
 https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/olahraga/espnu
 
 #EXTINF:-1 tvg-id="ArenaPremium1.rs" tvg-logo="https://i.ibb.co/85JF0TN/download-17-modified.png" group-title="Olahraga",Arena 1 Premium
-#EXTVLCOPT:http-referrer=https://olacast.live/
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
 https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/olahraga/arena1
 
 #EXTINF:-1 tvg-id="ArenaPremium2.rs" tvg-logo="https://i.ibb.co/8PVTcgD/download-16-modified.png" group-title="Olahraga",Arena 2 Premium
-#EXTVLCOPT:http-referrer=https://olacast.live/
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
 https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/olahraga/arena2
 
 #EXTINF:-1 tvg-id="ArenaPremium3.rs" tvg-logo="https://i.ibb.co/ZWDtsz4/download-18-modified.png" group-title="Olahraga",Arena 3 Premium
-#EXTVLCOPT:http-referrer=https://olacast.live/
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
 https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/olahraga/arena3
 
 #EXTINF:-1 tvg-id="Eurosport1UK.uk" tvg-logo="https://i.ibb.co/0sDKNYn/Desain-tanpa-judul-46-modified.png" group-title="Olahraga",Eurosport 1 UK
-#EXTVLCOPT:http-referrer=https://olacast.live/
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
 https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/olahraga/eurosport1
 
 #EXTINF:-1 tvg-id="Eurosport2UK.uk" tvg-logo="https://i.ibb.co/Wgmb6Xf/Desain-tanpa-judul-51-modified.png" group-title="Olahraga",Eurosport 2 UK
-#EXTVLCOPT:http-referrer=https://olacast.live/
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
 https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/olahraga/eurosport2
 
 #EXTINF:-1 tvg-id="SuperSportPSL.za" tvg-logo="https://i.ibb.co/64tqpW0/unnamed-3-modified-1.png" group-title="Olahraga",Supersport PSL
-#EXTVLCOPT:http-referrer=https://olacast.live/
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
 https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/olahraga/superpsl
 
 #EXTINF:-1 tvg-id="SuperSportFootball.za" tvg-logo="https://i.ibb.co/64tqpW0/unnamed-3-modified-1.png" group-title="Olahraga",Supersport Football
-#EXTVLCOPT:http-referrer=https://olacast.live/
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
 https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/olahraga/superfotball
 
 #EXTINF:-1 tvg-id="SuperSportLaLiga.za" tvg-logo="https://i.ibb.co/64tqpW0/unnamed-3-modified-1.png" group-title="Olahraga",Supersport FIFA
-#EXTVLCOPT:http-referrer=https://olacast.live/
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
 https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/olahraga/superfifa
 
 #EXTINF:-1 tvg-id="SuperSportPremierLeague.za" tvg-logo="https://i.ibb.co/64tqpW0/unnamed-3-modified-1.png" group-title="Olahraga",Supersport Premier League
-#EXTVLCOPT:http-referrer=https://olacast.live/
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
 https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/olahraga/superpremier
 
 #EXTINF:-1 tvg-id="SuperSportLaLiga.za" tvg-logo="https://i.ibb.co/64tqpW0/unnamed-3-modified-1.png" group-title="Olahraga",Supersport La Liga
-#EXTVLCOPT:http-referrer=https://olacast.live/
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
 https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/olahraga/superlaliga
 
 #EXTINF:-1 tvg-id="SuperSportGrandstand.za" tvg-logo="https://i.ibb.co/64tqpW0/unnamed-3-modified-1.png" group-title="Olahraga",Supersport Grandstand
-#EXTVLCOPT:http-referrer=https://olacast.live/
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
 https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/olahraga/supergrand
 
 #EXTINF:-1 tvg-id="SuperSportVariety1.za" tvg-logo="https://i.ibb.co/64tqpW0/unnamed-3-modified-1.png" group-title="Olahraga",Supersport Variety 1
-#EXTVLCOPT:http-referrer=https://olacast.live/
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
 https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/olahraga/supervar1
 
 #EXTINF:-1 tvg-id="SuperSportVariety2.za" tvg-logo="https://i.ibb.co/64tqpW0/unnamed-3-modified-1.png" group-title="Olahraga",Supersport Variety 2
-#EXTVLCOPT:http-referrer=https://olacast.live/
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
 https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/olahraga/supervar2
 
 #EXTINF:-1 tvg-id="SuperSportVariety3.za" tvg-logo="https://i.ibb.co/64tqpW0/unnamed-3-modified-1.png" group-title="Olahraga",Supersport Variety 3
-#EXTVLCOPT:http-referrer=https://olacast.live/
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
 https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/olahraga/supervar3
 
 #EXTINF:-1 tvg-id="SuperSportVariety4.za" tvg-logo="https://i.ibb.co/64tqpW0/unnamed-3-modified-1.png" group-title="Olahraga",Supersport Variety 4
-#EXTVLCOPT:http-referrer=https://olacast.live/
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
 https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/olahraga/supervar4
 
 #EXTINF:-1 tvg-id="SuperSportAction.za" tvg-logo="https://i.ibb.co/64tqpW0/unnamed-3-modified-1.png" group-title="Olahraga",Supersport Action
-#EXTVLCOPT:http-referrer=https://olacast.live/
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
 https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/olahraga/superaction
 
 #EXTINF:-1 tvg-id="SuperSportRugby.za" tvg-logo="https://i.ibb.co/64tqpW0/unnamed-3-modified-1.png" group-title="Olahraga",Supersport Rugby
-#EXTVLCOPT:http-referrer=https://olacast.live/
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
 https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/olahraga/superrugby
 
 #EXTINF:-1 tvg-id="SuperSportGolf.za" tvg-logo="https://i.ibb.co/64tqpW0/unnamed-3-modified-1.png" group-title="Olahraga",Supersport Golf
-#EXTVLCOPT:http-referrer=https://olacast.live/
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
 https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/olahraga/supergolf
 
 #EXTINF:-1 tvg-id="SuperSportMotorsport.za" tvg-logo="https://i.ibb.co/64tqpW0/unnamed-3-modified-1.png" group-title="Olahraga",Supersport Motorsport
-#EXTVLCOPT:http-referrer=https://olacast.live/
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
 https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/olahraga/supermotor
 
 #EXTINF:-1 tvg-id="SuperSportTennis.za" tvg-logo="https://i.ibb.co/64tqpW0/unnamed-3-modified-1.png" group-title="Olahraga",Supersport Tennis
-#EXTVLCOPT:http-referrer=https://olacast.live/
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
 https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/olahraga/supertennis
 
 #EXTINF:-1 tvg-id="SuperSportMaximo1.za" tvg-logo="https://i.ibb.co/64tqpW0/unnamed-3-modified-1.png" group-title="Olahraga",Supersport Maximo 1
-#EXTVLCOPT:http-referrer=https://olacast.live/
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
 https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/olahraga/supermaximo
 
 #EXTINF:-1 tvg-id="CanalPlusSportPoland.pl" tvg-logo="https://i.ibb.co/1rz97mP/Desain-tanpa-judul-67-modified.png" group-title="Olahraga",Canal+ Sport Poland
-#EXTVLCOPT:http-referrer=https://olacast.live/
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
 https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/olahraga/canal
 
 #EXTINF:-1 tvg-id="CanalPlusSport2Poland.pl" tvg-logo="https://i.ibb.co/j8SgdLQ/Desain-tanpa-judul-68-modified.png" group-title="Olahraga",Canal+ Sport 2 Poland
-#EXTVLCOPT:http-referrer=https://olacast.live/
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
 https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/olahraga/canal2
 
 #EXTINF:-1 tvg-id="OrangeSport1.ro" tvg-logo="https://i.ibb.co/QjnhVbB/tv-station-orange-sport-1-1513-modified.png" group-title="Olahraga",Orange Sport 1
-#EXTVLCOPT:http-referrer=https://olacast.live/
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
 https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/olahraga/orange1
 
 #EXTINF:-1 tvg-id="OrangeSport2.ro" tvg-logo="https://i.ibb.co/McJHnch/tv-station-orange-sport-2-1514-modified.png" group-title="Olahraga",Orange Sport 2
-#EXTVLCOPT:http-referrer=https://olacast.live/
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
 https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/olahraga/orange2
 
 #EXTINF:-1 tvg-id="OrangeSport3.ro" tvg-logo="https://i.ibb.co/cLnkwf9/tv-station-orange-sport-3-1515-modified.png" group-title="Olahraga",Orange Sport 3
-#EXTVLCOPT:http-referrer=https://olacast.live/
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
 https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/olahraga/orange3
 
 #EXTINF:-1 tvg-id="OrangeSport4.ro" tvg-logo="https://i.ibb.co/NF3bByd/tv-station-orange-sport-4-1516-modified.png" group-title="Olahraga",Orange Sport 4
-#EXTVLCOPT:http-referrer=https://olacast.live/
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
 https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/olahraga/orange4
 
 #EXTINF:-1 tvg-id="PrimaSport1.ro" tvg-logo="https://i.ibb.co/B2VVB0L/channels4-profile-8-modified.png" group-title="Olahraga",Prima Sport 1
-#EXTVLCOPT:http-referrer=https://olacast.live/
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
 https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/olahraga/prima1
 
 #EXTINF:-1 tvg-id="PrimaSport2.ro" tvg-logo="https://i.ibb.co/B2VVB0L/channels4-profile-8-modified.png" group-title="Olahraga",Prima Sport 2
-#EXTVLCOPT:http-referrer=https://olacast.live/
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
 https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/olahraga/prima2
 
 #EXTINF:-1 tvg-id="PrimaSport3.ro" tvg-logo="https://i.ibb.co/B2VVB0L/channels4-profile-8-modified.png" group-title="Olahraga",Prima Sport 3
-#EXTVLCOPT:http-referrer=https://olacast.live/
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
 https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/olahraga/prima3
 
 #EXTINF:-1 tvg-id="PrimaSport4.ro" tvg-logo="https://i.ibb.co/B2VVB0L/channels4-profile-8-modified.png" group-title="Olahraga",Prima Sport 4
-#EXTVLCOPT:http-referrer=https://olacast.live/
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
 https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/olahraga/prima4
 
 #EXTINF:-1 tvg-id="SportKlubHD.rs" tvg-logo="https://i.ibb.co/vVx42VF/1582372220671-modified.png" group-title="Olahraga",Sport Klub
-#EXTVLCOPT:http-referrer=https://olacast.live/
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
 https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/olahraga/sklubhd
 
 #EXTINF:-1 tvg-id="SportKlub1Croatia.hr" tvg-logo="https://i.ibb.co/vVx42VF/1582372220671-modified.png" group-title="Olahraga",Sport Klub 1
-#EXTVLCOPT:http-referrer=https://olacast.live/
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
 https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/olahraga/sklub1
 
 #EXTINF:-1 tvg-id="SportKlub2Serbia.rs" tvg-logo="https://i.ibb.co/vVx42VF/1582372220671-modified.png" group-title="Olahraga",Sport Klub 2
-#EXTVLCOPT:http-referrer=https://olacast.live/
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
 https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/olahraga/sklub2
 
 #EXTINF:-1 tvg-id="SportKlub3.rs" tvg-logo="https://i.ibb.co/vVx42VF/1582372220671-modified.png" group-title="Olahraga",Sport Klub 3
-#EXTVLCOPT:http-referrer=https://olacast.live/
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
 https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/olahraga/sklub3
 
 #EXTINF:-1 tvg-id="SportKlub4.rs" tvg-logo="https://i.ibb.co/vVx42VF/1582372220671-modified.png" group-title="Olahraga",Sport Klub 4
-#EXTVLCOPT:http-referrer=https://olacast.live/
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
 https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/olahraga/sklub4
 
 #EXTINF:-1 tvg-id="TSN1.ca" tvg-logo="https://i.ibb.co/bHpS560/tv-station-tsn1-188-modified.png" group-title="Olahraga",TSN 1
-#EXTVLCOPT:http-referrer=https://olacast.live/
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
 https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/olahraga/tsn
 
 #EXTINF:-1 tvg-id="TSN2.ca" tvg-logo="https://i.ibb.co/jv34JSP/tv-station-tsn2-189-modified.png" group-title="Olahraga",TSN 2
-#EXTVLCOPT:http-referrer=https://olacast.live/
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
 https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/olahraga/tsn2
 
 #EXTINF:-1 tvg-id="TSN3.ca" tvg-logo="https://i.ibb.co/QKZsGD8/tv-station-tsn3-190-modified.png" group-title="Olahraga",TSN 3
-#EXTVLCOPT:http-referrer=https://olacast.live/
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
 https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/olahraga/tsn3
 
 #EXTINF:-1 tvg-id="TSN4.ca" tvg-logo="https://i.ibb.co/bHcR77q/tv-station-tsn4-191-modified.png" group-title="Olahraga",TSN 4
-#EXTVLCOPT:http-referrer=https://olacast.live/
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
 https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/olahraga/tsn4
 
 #EXTINF:-1 tvg-id="TSN5.ca" tvg-logo="https://i.ibb.co/k02Xmx9/tv-station-tsn5-192-modified.png" group-title="Olahraga",TSN 5
-#EXTVLCOPT:http-referrer=https://olacast.live/
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
 https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/olahraga/tsn5
 
@@ -1160,12 +1162,12 @@ https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-037/stream.mpd
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-038/stream.mpd
 
 #EXTINF:-1 tvg-id="DAZN3Spain.uk" group-title="Olahraga" tvg-logo="https://i.ibb.co/j60Nb0p/DAZN-sports-modified.png", Dazn 3
-#EXTVLCOPT:http-referrer=https://olacast.live/
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
 https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/olahraga/dazn3
 
 #EXTINF:-1 tvg-id="DAZN4Spain.uk" group-title="Olahraga" tvg-logo="https://i.ibb.co/j60Nb0p/DAZN-sports-modified.png", Dazn 4
-#EXTVLCOPT:http-referrer=https://olacast.live/
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
 https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/olahraga/dazn4
 
@@ -1203,17 +1205,17 @@ https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-034/stream.mpd
 #https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/olahraga/llfc
 
 #EXTINF:-1 tvg-id="BarcaTV.es" tvg-logo="https://i.ibb.co/jz6Xh5s/u85-BO-GZ-400x400-modified.png" group-title="Olahraga",Barca TV
-#EXTVLCOPT:http-referrer=https://olacast.live/
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
 #EXTVLCOPT:http-user-agent=REDLINECLIENT
 https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/olahraga/barca
 
 #EXTINF:-1 tvg-id="RealMadridTV.es" tvg-logo="https://i.ibb.co/8NQ3Cvw/soccer-real-madrid-c-f-real-madrid-logo-wallpaper-preview-modified.png" group-title="Olahraga",Real Madrid TV
-#EXTVLCOPT:http-referrer=https://olacast.live/
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
 https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/olahraga/realmadrid
 
 #EXTINF:-1 tvg-id="MUTV.uk" tvg-logo="https://i.ibb.co/MMb4NGr/download-15-modified.png" group-title="Olahraga",MU TV
-#EXTVLCOPT:http-referrer=https://olacast.live/
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
 https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/olahraga/mu
 
@@ -1221,32 +1223,32 @@ https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39a
 https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/olahraga/persija.m3u8
 
 #EXTINF:-1 tvg-id="ZiggoSportRacing.nl" tvg-logo="https://i.ibb.co/GvSdq1H/tv-station-ziggo-racing-288-modified.png" group-title="Olahraga",Ziggo Sport Racing
-#EXTVLCOPT:http-referrer=https://olacast.live/
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
 https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/olahraga/zigoracing
 
 #EXTINF:-1 tvg-id="ZiggoSportDocu.nl" tvg-logo="https://i.ibb.co/fCXZ93k/tv-station-ziggo-docu-290-modified.png" group-title="Olahraga",Ziggo Sport Docu
-#EXTVLCOPT:http-referrer=https://olacast.live/
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
 https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/olahraga/ziggodocu
 
 #EXTINF:-1 tvg-id="ZiggoSportSelect.nl" tvg-logo="https://i.ibb.co/cF5CFB0/tv-station-ziggo-select-285-modified.png" group-title="Olahraga",Ziggo Sport Select
-#EXTVLCOPT:http-referrer=https://olacast.live/
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
 https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/olahraga/zigoselect
 
 #EXTINF:-1 tvg-id="ZiggoSportVoetbal.nl" tvg-logo="https://i.ibb.co/SrTd4yV/tv-station-ziggo-voetbal-286-modified.png" group-title="Olahraga",Ziggo Sport Voetball
-#EXTVLCOPT:http-referrer=https://olacast.live/
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
 https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/olahraga/ziggovoetball
 
 #EXTINF:-1 tvg-id="RMCSport1.fr" tvg-logo="https://i.ibb.co/ct8gJqp/download-37-modified.png" group-title="Olahraga",RMC Sport 1
-#EXTVLCOPT:http-referrer=https://olacast.live/
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
 https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/olahraga/rmc1
 
 #EXTINF:-1 tvg-id="RMCSport2.fr" tvg-logo="https://i.ibb.co/86PkxZL/tv-station-rmc-sport-2-1428-modified.png" group-title="Olahraga",RMC Sport 2
-#EXTVLCOPT:http-referrer=https://olacast.live/
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
 https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/olahraga/rmc2
 
@@ -1259,57 +1261,57 @@ https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39a
 https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/olahraga/rmc4
 
 #EXTINF:-1 tvg-id="SetantaSportsGeorgia.ge" tvg-logo="https://i.ibb.co/ryh8LFW/download-36-removebg-preview-modified.png" group-title="Olahraga",Setanta Sports 1
-#EXTVLCOPT:http-referrer=https://olacast.live/
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
 https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/olahraga/setanta1
 
 #EXTINF:-1 tvg-id="SetantaSportsPlusGeorgia.ge" tvg-logo="https://i.ibb.co/bKyszhD/227-removebg-preview-modified.png" group-title="Olahraga",Setanta Sports 2
-#EXTVLCOPT:http-referrer=https://olacast.live/
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
 https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/olahraga/setanta2
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/xSxZ00P/Desain-tanpa-judul-2022-09-18-T080837-522-modified.png" group-title="Olahraga",Sport 1 Israel
-#EXTVLCOPT:http-referrer=https://olacast.live/
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
 https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/olahraga/sport1israel
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/GJyyHDM/Desain-tanpa-judul-2022-09-18-T080856-542-modified.png" group-title="Olahraga",Sport 2 Israel
-#EXTVLCOPT:http-referrer=https://olacast.live/
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
 https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/olahraga/sport2israel
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/0tR5jLS/Desain-tanpa-judul-2022-09-18-T080917-413-modified.png" group-title="Olahraga",Sport 3 Israel
-#EXTVLCOPT:http-referrer=https://olacast.live/
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
 https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/olahraga/sport3israel
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/3cN0cZt/Desain-tanpa-judul-2022-09-18-T080938-515-modified.png" group-title="Olahraga",Sport 4 Israel
-#EXTVLCOPT:http-referrer=https://olacast.live/
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
 https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/olahraga/sport4israel
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/x6qKdBY/Desain-tanpa-judul-2022-09-18-T081014-946-modified.png" group-title="Olahraga",Sport 5 Israel
-#EXTVLCOPT:http-referrer=https://olacast.live/
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
 https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/olahraga/sport5israel
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Z8Wpx9Y/Desain-tanpa-judul-2022-09-18-T082321-557-modified.png" group-title="Olahraga",Sport 5 Plus Israel
-#EXTVLCOPT:http-referrer=https://olacast.live/
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
 https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/olahraga/sport5plus
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/VWGxL4X/Desain-tanpa-judul-2022-09-18-T082348-807-modified.png" group-title="Olahraga",Sport 5 Live Israel
-#EXTVLCOPT:http-referrer=https://olacast.live/
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
 https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/olahraga/sport5live
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NyK34Cq/Desain-tanpa-judul-2022-09-18-T082336-462-modified.png" group-title="Olahraga",Sport 5 Stars Israel
-#EXTVLCOPT:http-referrer=https://olacast.live/
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
 https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/olahraga/sport5star
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/0XwkVJ1/Desain-tanpa-judul-2022-09-18-T082400-506-modified.png" group-title="Olahraga",Sport 5 Gold Israel
-#EXTVLCOPT:http-referrer=https://olacast.live/
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
 https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/olahraga/sport5gold
 
@@ -1458,11 +1460,11 @@ https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39
 https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/hiburan/kix.mpd
 
 #EXTINF:-1 tvg-id="Andflix.in" tvg-logo="https://i.ibb.co/k1JJN2t/and-flix-hd-logo-300x300-modified.png" group-title="Film",&Flix
-#EXTVLCOPT:http-user-agent=zhuszozszxosfb
+#EXTVLCOPT:http-user-agent=zhuszozszxoszdo
 https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/hiburan/flix
 
 #EXTINF:-1 tvg-id="AndpriveHD.in" tvg-logo="https://i.ibb.co/yqj6BMX/unnamed-19-modified.png" group-title="Film",&Prive
-#EXTVLCOPT:http-user-agent=zhuszozszxosfb
+#EXTVLCOPT:http-user-agent=zhuszozszxoszdo
 https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/hiburan/prive
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1503,11 +1505,11 @@ https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39
 https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/hiburan/ceurope
 
 #EXTINF:-1 tvg-id="Paramount.dukun" tvg-logo="https://i.ibb.co/zrxvFLV/images-6-modified.png" group-title="Film",Paramount
-#EXTVLCOPT:http-user-agent=zhuszozszxosfb
+#EXTVLCOPT:http-user-agent=zhuszozszxoszdo
 https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/hiburan/para.m3u8
 
 #EXTINF:-1 tvg-id="BioskopIndonesia.id" tvg-logo="https://i.ibb.co/gTN6Xc2/bioskopindonesia-modified.png" group-title="Film", Bioskop Indonesia
-#EXTVLCOPT:http-user-agent=zhuszozszxosfb
+#EXTVLCOPT:http-user-agent=zhuszozszxoszdo
 https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/hiburan/bioskop
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/nnzV8Ld/unnamed-26-modified.png" group-title="Film",Sinema Indonesia X
@@ -1515,18 +1517,18 @@ https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39
 http://bravo.kugo.id:8081/sindox/hls/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Flik" tvg-logo="https://i.ibb.co/JpRSxCj/unnamed-16-modified.png" group-title="Film", FLIK
-#EXTVLCOPT:http-user-agent=zhuszozszxosfb
+#EXTVLCOPT:http-user-agent=zhuszozszxoszdo
 https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/hiburan/flik.m3u8
 
 #EXTINF:-1 tvg-id="Boo.my" tvg-logo="https://i.ibb.co/xs37yJ8/boo-removebg-preview-modified.png" group-title="Film", BOO
 https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/hiburan/boo
 
 #EXTINF:-1 tvg-id="StarChineseMoviesSouthEastAsia.hk" tvg-logo="https://i.ibb.co/WWPwYY2/fyx3-E7p-modified.png" group-title="Film",Star Chinese Movies
-#EXTVLCOPT:http-user-agent=zhuszozszxosfb
+#EXTVLCOPT:http-user-agent=zhuszozszxoszdo
 https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/hiburan/scm
 
 #EXTINF:-1 tvg-id="ChineseDrama" tvg-logo="https://i.ibb.co/dkYmfDt/Desain-tanpa-judul-26-modified.png" group-title="Film",Chinese Drama
-#EXTVLCOPT:http-user-agent=zhuszozszxosfb
+#EXTVLCOPT:http-user-agent=zhuszozszxoszdo
 https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/hiburan/chinese.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1535,7 +1537,7 @@ https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39
 https://av-live-cdn.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
 
 #EXTINF:-1 tvg-id="CitraBioskop.id" tvg-logo="https://thumbor.prod.vidiocdn.com/1ASddItneuCcle-ekFegZrPA-mo=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6684/61417f.png" group-title="Film",Citra Bioskop
-#EXTVLCOPT:http-user-agent=zhuszozszxosfb
+#EXTVLCOPT:http-user-agent=zhuszozszxoszdo
 https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/hiburan/cbioskop.m3u8
 
 #EXTINF:-1 tvg-id="SkyCinemaPremiereHD.uk" tvg-logo="https://i.ibb.co/Xb2VKDL/download-21-modified-1.png" group-title="Film",Sky Cinema Premier
@@ -1551,15 +1553,15 @@ https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39
 https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/hiburan/skythiller
 
 #EXTINF:-1 tvg-id="Andpictures.in" tvg-logo="https://i.ibb.co/hZ37R7j/Desain-tanpa-judul-2022-07-19-T144552-875-modified.png" group-title="Film",&Picture
-#EXTVLCOPT:http-user-agent=zhuszozszxosfb
+#EXTVLCOPT:http-user-agent=zhuszozszxoszdo
 https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/hiburan/picture
 
 #EXTINF:-1 tvg-id="AndTV.in" tvg-logo="https://i.ibb.co/WcGgzMt/Desain-tanpa-judul-2022-07-19-T144615-416-modified.png" group-title="Film",&TV
-#EXTVLCOPT:http-user-agent=zhuszozszxosfb
+#EXTVLCOPT:http-user-agent=zhuszozszxoszdo
 https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/hiburan/tv
 
 #EXTINF:-1 tvg-id="AndxplorHD.in" tvg-logo="https://i.ibb.co/HYQ4CkZ/Desain-tanpa-judul-2022-07-19-T144628-095-modified.png" group-title="Film",&xplor
-#EXTVLCOPT:http-user-agent=zhuszozszxosfb
+#EXTVLCOPT:http-user-agent=zhuszozszxoszdo
 https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/hiburan/xplor
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1659,18 +1661,18 @@ https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39
 https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/hiburan/animetv.m3u8
 
 #EXTINF:-1 tvg-id="DuniaLain.id" tvg-logo="https://i.ibb.co/CntmHWZ/channels4-profile-5-modified.png" group-title="Hiburan", Dunia Lain
-#EXTVLCOPT:http-user-agent=zhuszozszxosfb
+#EXTVLCOPT:http-user-agent=zhuszozszxoszdo
 https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/hiburan/dunialain
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/0G9TPxC/2d8b11-modified.png" group-title="Hiburan",RANS Channel
 https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/hiburan/rans.m3u8
 
 #EXTINF:-1 tvg-id="SeruChannel.id" tvg-logo="https://i.ibb.co/mz5850b/Desain-tanpa-judul-2022-07-18-T090155-111-modified.png" group-title="Hiburan",Seru
-#EXTVLCOPT:http-user-agent=zhuszozszxosfb
+#EXTVLCOPT:http-user-agent=zhuszozszxoszdo
 https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/hiburan/seru.m3u8
 
 #EXTINF:-1 tvg-id="EatNGo.id" tvg-logo="https://i.ibb.co/nRS8cNq/eatgo-modified.png" group-title="Hiburan",Eat & Go
-#EXTVLCOPT:http-user-agent=zhuszozszxosfb
+#EXTVLCOPT:http-user-agent=zhuszozszxoszdo
 https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/hiburan/eat.m3u8
 
 #EXTINF:-1 tvg-id="KPlus.id" tvg-logo="https://i.ibb.co/S04S9jG/download-31-modified.png" group-title="Hiburan",K+
@@ -1683,7 +1685,7 @@ https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39
 https://av-live-cdn.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd
 
 #EXTINF:-1 tvg-id="GEM.sg" tvg-logo="https://i.ibb.co/tcZQSMd/Desain-tanpa-judul-80-modified.png" group-title="Hiburan",Gem
-#EXTVLCOPT:http-user-agent=zhuszozszxosfb
+#EXTVLCOPT:http-user-agent=zhuszozszxoszdo
 https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/hiburan/gem.m3u8
 
 #EXTINF:-1 tvg-id="ArirangWorld.kr" tvg-logo="https://i.ibb.co/fnv84dz/1537839003551-modified.png" group-title="Hiburan",Arirang
@@ -1698,71 +1700,76 @@ https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39
 https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/hiburan/rocken.m3u8
 
 #EXTINF:-1 tvg-id="CitraDrama.id" tvg-logo="https://thumbor.prod.vidiocdn.com/vrmDRqwZOsoYOuyV_hfOtFs8bJo=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6401/5b4d40.png" group-title="Hiburan",Citra Drama
-#EXTVLCOPT:http-user-agent=zhuszozszxosfb
+#EXTVLCOPT:http-user-agent=zhuszozszxoszdo
 https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/hiburan/cdrama.m3u8
 
 #EXTINF:-1 tvg-id="CitraDangdut.id" tvg-logo="https://thumbor.prod.vidiocdn.com/dfxtzulRmK4-cAUvo30s9VoSwbc=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6587/8742fe.png" group-title="Hiburan",Citra Dangdut
-#EXTVLCOPT:http-user-agent=zhuszozszxosfb
+#EXTVLCOPT:http-user-agent=zhuszozszxoszdo
 https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/hiburan/cdangdut.m3u8
 
 #EXTINF:-1 tvg-id="CitraCulinaryTravel.id" tvg-logo="https://i.ibb.co/K0pRgQ1/15f712-modified.png" group-title="Hiburan",Citra Culinary & Travel
-#EXTVLCOPT:http-user-agent=zhuszozszxosfb
+#EXTVLCOPT:http-user-agent=zhuszozszxoszdo
 https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/hiburan/ctravel.m3u8
 
 #EXTINF:-1 tvg-id="CitraMuslim.id" tvg-logo="https://thumbor.prod.vidiocdn.com/s6WSgBPwJHnY4vughTA-IkeRG40=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6678/154a43.png" group-title="Hiburan",Citra Muslim
-#EXTVLCOPT:http-user-agent=zhuszozszxosfb
+#EXTVLCOPT:http-user-agent=zhuszozszxoszdo
 https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/hiburan/cmuslim.m3u8
 
 #EXTINF:-1 tvg-id="CitraEntertainment.id" tvg-logo="https://i.ibb.co/nncMTg1/Desain-tanpa-judul-14-modified.png" group-title="Hiburan",Citra Entertainment
-#EXTVLCOPT:http-user-agent=zhuszozszxosfb
+#EXTVLCOPT:http-user-agent=zhuszozszxoszdo
 https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/hiburan/centertainment.m3u8
 
 #EXTINF:-1 tvg-id="MentariTV.id" tvg-logo="https://thumbor.prod.vidiocdn.com/NlKuedj4cpv-SrNGEi26Ce4AFd4=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/8237/18585d.png" group-title="Hiburan",Mentari TV
-#EXTVLCOPT:http-user-agent=zhuszozszxosfb
+#EXTVLCOPT:http-user-agent=zhuszozszxoszdo
 https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/hiburan/mentari.m3u8
 
 #EXTINF:-1 tvg-id="ZingAsia.in" tvg-logo="https://thumbor.prod.vidiocdn.com/-st4hraUbJ7qBwCE39Teh0rFF8M=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6747/b60a5a.png" group-title="Hiburan",Zing
-#EXTVLCOPT:http-user-agent=zhuszozszxosfb
+#EXTVLCOPT:http-user-agent=zhuszozszxoszdo
 https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/hiburan/zing.m3u8
 
 #EXTINF:-1 tvg-id="FashionTVLOriginal.fr" tvg-logo="https://thumbor.prod.vidiocdn.com/vo4nX_9DXfkHYpd2gpeqFdHYu_w=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6507/d29206.png" group-title="Hiburan",FashionTV L'Original
-#EXTVLCOPT:http-user-agent=zhuszozszxosfb
+#EXTVLCOPT:http-user-agent=zhuszozszxoszdo
 https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/hiburan/fori.m3u8
 
 #EXTINF:-1 tvg-id="FashionTVAsia.fr" tvg-logo="https://thumbor.prod.vidiocdn.com/P5NhMEunwYyNqtqtuR7vYbnPC-0=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6511/4dd1c5.png" group-title="Hiburan",Fashion TV - Global
-#EXTVLCOPT:http-user-agent=zhuszozszxosfb
+#EXTVLCOPT:http-user-agent=zhuszozszxoszdo
 https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/hiburan/fasia.m3u8
 
 #EXTINF:-1 tvg-id="FashionTVMidnightSecrets.fr" tvg-logo="https://thumbor.prod.vidiocdn.com/SBA2A3aIpB-X9KqPXj5zr-QQQTQ=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6504/d227d2.png" group-title="Hiburan",Fashion TV Midnight Secrets
-#EXTVLCOPT:http-user-agent=zhuszozszxosfb
+#EXTVLCOPT:http-user-agent=zhuszozszxoszdo
 https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/hiburan/fsecret.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/TtMxbZ9/Desain-tanpa-judul-20-modified.png" group-title="Hiburan",Biznet Lifestyle
 https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/pengetahuan/biznetlife.m3u8
 
 #EXTINF:-1 tvg-id="KBS1TV.kr" tvg-logo="https://i.ibb.co/WP0Hx8F/Desain-tanpa-judul-42-modified.png" group-title="Hiburan",KBS 1
-#EXTVLCOPT:http-user-agent=zhuszozszxosfb
+#EXTVLCOPT:http-referrer=https://hypera.live/
+#EXTVLCOPT:http-user-agent=zhuszozszxoszdo
 https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/hiburan/kbs1
 
 #EXTINF:-1 tvg-id="KBS2TV.kr" tvg-logo="https://i.ibb.co/Hd0XKjv/Desain-tanpa-judul-43-modified.png" group-title="Hiburan",KBS 2
-#EXTVLCOPT:http-user-agent=zhuszozszxosfb
+#EXTVLCOPT:http-referrer=https://hypera.live/
+#EXTVLCOPT:http-user-agent=zhuszozszxoszdo
 https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/hiburan/kbs2
 
-
 #EXTINF:-1 tvg-id="SBSTV.kr" tvg-logo="https://i.ibb.co/4Th3ZkD/images-1-modified-1.png" group-title="Hiburan",SBS
-#EXTVLCOPT:http-user-agent=zhuszozszxosfb
+#EXTVLCOPT:http-referrer=https://hypera.live/
+#EXTVLCOPT:http-user-agent=zhuszozszxoszdo
 https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/hiburan/sbs
 
 #EXTINF:-1 tvg-id="MBCTV.kr" tvg-logo="https://i.ibb.co/vLF7WNY/MBC-daejeon-modified.png" group-title="Hiburan",MBC
-#EXTVLCOPT:http-user-agent=zhuszozszxosfb
+#EXTVLCOPT:http-referrer=https://hypera.live/
+#EXTVLCOPT:http-user-agent=zhuszozszxoszdo
 https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/hiburan/mbc
 
 #EXTINF:-1 tvg-id="Mnet.kr" tvg-logo="https://i.ibb.co/LYQsWJd/Ejn3-J8-BUYAIm-Fe-I-modified.png" group-title="Hiburan",Mnet
-#EXTVLCOPT:http-user-agent=zhuszozszxosfb
+#EXTVLCOPT:http-referrer=https://hypera.live/
+#EXTVLCOPT:http-user-agent=zhuszozszxoszdo
 https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/hiburan/mnet
 
 #EXTINF:-1 tvg-id="JTBC.kr" tvg-logo="https://i.ibb.co/VWhDbS3/1619102588-20210422-netflix-modified.png" group-title="Hiburan",JTBC
-#EXTVLCOPT:http-user-agent=zhuszozszxosfb
+#EXTVLCOPT:http-referrer=https://hypera.live/
+#EXTVLCOPT:http-user-agent=zhuszozszxoszdo
 https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/hiburan/jtbc
 
 #EXTINF:-1 tvg-id="TV5MondeStyleHD.fr" tvg-logo="https://i.ibb.co/k5xP3Gp/download-32-modified.png" group-title="Hiburan",Style TV5Monde 
@@ -1770,7 +1777,7 @@ https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39
 https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/hiburan/styletv5.m3u8
 
 #EXTINF:-1 tvg-id="EAfrica.us" tvg-logo="https://i.ibb.co/VMTQV9s/download-17-modified-1.png" group-title="Hiburan",E!
-#EXTVLCOPT:http-referrer=https://olacast.live/
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20101101 Firefox/31.0
 https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/hiburan/ei
 
@@ -1953,27 +1960,27 @@ https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39
 https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/pengetahuan/nickelodeon.mpd
 
 #EXTINF:-1 tvg-id="Dreamworks.dukun" tvg-logo="https://i.ibb.co/pXnCLSD/n-Qz-Mqf-Ho-400x400-modified.png" group-title="Anak",Dreamworks
-#EXTVLCOPT:http-user-agent=zhuszozszxosfb
+#EXTVLCOPT:http-user-agent=zhuszozszxoszdo
 https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/pengetahuan/dream
 
 #EXTINF:-1 tvg-id="DuniaAnak.id" tvg-logo="https://i.ibb.co/4KqsjWv/duniaanak-modified.png" group-title="Anak",Dunia Anak
-#EXTVLCOPT:http-user-agent=zhuszozszxosfb
+#EXTVLCOPT:http-user-agent=zhuszozszxoszdo
 https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/pengetahuan/duniaanak
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/XDSNHw8/Yoay-GXPM-400x400-modified-1.png" group-title="Anak",IndiKids
-#EXTVLCOPT:http-user-agent=zhuszozszxosfb
+#EXTVLCOPT:http-user-agent=zhuszozszxoszdo
 https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/pengetahuan/indikids.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Jv6P6W4/davinci-modified.png" group-title="Anak",Davinci
-#EXTVLCOPT:http-user-agent=zhuszozszxosfb
+#EXTVLCOPT:http-user-agent=zhuszozszxoszdo
 https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/pengetahuan/davinci.m3u8
 
 #EXTINF:-1 tvg-id="DisneyChannelCenter.us" tvg-logo="https://i.ibb.co/V2GGczZ/thumbnail-generic-modified.png" group-title="Anak",Disney Channel
-#EXTVLCOPT:http-referrer=https://olacast.live/
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
 https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/pengetahuan/disney
 
 #EXTINF:-1 tvg-id="DisneyXDEast.us" tvg-logo="https://i.ibb.co/LQ9nCDH/scale-modified.png" group-title="Anak",Disney XD
-#EXTVLCOPT:http-referrer=https://olacast.live/
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
 https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/pengetahuan/disneyxd
 
 #EXTINF:-1 tvg-id="NickJrPlutoTV.us" tvg-logo="https://i.ibb.co/j6TqzY2/Desain-tanpa-judul-22-modified.png" group-title="Anak",Nick Jr Dora
@@ -1989,11 +1996,11 @@ https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39
 https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/pengetahuan/zoomo.m3u8
 
 #EXTINF:-1 tvg-id="HipHipHoree.id" tvg-logo="https://thumbor.prod.vidiocdn.com/-vUtTKf6ogRcvcjURJn62-m-eCU=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7052/63032e.png" group-title="Anak",Hip Hip Horee!
-#EXTVLCOPT:http-user-agent=zhuszozszxosfb
+#EXTVLCOPT:http-user-agent=zhuszozszxoszdo
 https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/pengetahuan/hip.m3u8
 
 #EXTINF:-1 tvg-id="Horee.id" tvg-logo="https://thumbor.prod.vidiocdn.com/PQBfpwpTbQWZDJLLK5REbICdg-g=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6397/d422cd.png" group-title="Anak",Horee!
-#EXTVLCOPT:http-user-agent=zhuszozszxosfb
+#EXTVLCOPT:http-user-agent=zhuszozszxoszdo
 https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/pengetahuan/hore.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/qjDgnBc/mkidz-home-tv-modified.png" group-title="Anak",My Kidz
@@ -2001,35 +2008,35 @@ https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39
 https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/pengetahuan/mkidz.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/7WWcfqV/285-2852842-image-3301-thomas-and-friends-logo-hd-png-modified.png" group-title="Anak",Thomas & Friends
-#EXTVLCOPT:http-user-agent=zhuszozszxosfb
+#EXTVLCOPT:http-user-agent=zhuszozszxoszdo
 https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/pengetahuan/thomas.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/TWcjyLv/unnamed-4.png" group-title="Anak",BabyBus
-#EXTVLCOPT:http-user-agent=zhuszozszxosfb
+#EXTVLCOPT:http-user-agent=zhuszozszxoszdo
 https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/pengetahuan/babaybus.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/dM4XS8S/download-13-modified.png" group-title="Anak",Larva
-#EXTVLCOPT:http-user-agent=zhuszozszxosfb
+#EXTVLCOPT:http-user-agent=zhuszozszxoszdo
 https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/pengetahuan/larva.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/R3b1JPX/channels4-profile-6-modified.png" group-title="Anak",SpongeBob SquarePants
-#EXTVLCOPT:http-user-agent=zhuszozszxosfb
+#EXTVLCOPT:http-user-agent=zhuszozszxoszdo
 https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/pengetahuan/sponge.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/7y66NjV/channels4-profile-7-modified.png" group-title="Anak",Power Rangers
-#EXTVLCOPT:http-user-agent=zhuszozszxosfb
+#EXTVLCOPT:http-user-agent=zhuszozszxoszdo
 https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/pengetahuan/power.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/JQYpQdF/download-14-modified.png" group-title="Anak",Antiks
-#EXTVLCOPT:http-user-agent=zhuszozszxosfb
+#EXTVLCOPT:http-user-agent=zhuszozszxoszdo
 https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/pengetahuan/ant.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/v3XMWSp/download-41-modified.png" group-title="Anak",Talking Tom
-#EXTVLCOPT:http-user-agent=zhuszozszxosfb
+#EXTVLCOPT:http-user-agent=zhuszozszxoszdo
 https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/pengetahuan/tom.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/zPngwcQ/7e3644882fa74143d6f1c692af54881c-modified.png" group-title="Anak",One Punch Man
-#EXTVLCOPT:http-user-agent=zhuszozszxosfb
+#EXTVLCOPT:http-user-agent=zhuszozszxoszdo
 https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/pengetahuan/anime2.m3u8
 
 #EXTINF:-1 tvg-id="EBSKids.kr" tvg-logo="https://i.ibb.co/LzwXx7Y/ebs-kids-modified.png" group-title="Anak",EBS kids
@@ -2262,46 +2269,46 @@ https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39
 https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/musik/music.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/DD39rJv/379f71-modified.png" group-title="Musik",Musica
-#EXTVLCOPT:http-user-agent=zhuszozszxosfb
+#EXTVLCOPT:http-user-agent=zhuszozszxoszdo
 https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/musik/musica.m3u8
 
 #EXTINF:-1 tvg-ID=""  tvg-logo="https://i.ibb.co/3fTkQ7k/unnamed-9-modified-1.png" group-title="Musik", I-Konser
-#EXTVLCOPT:http-user-agent=zhuszozszxosfb
+#EXTVLCOPT:http-user-agent=zhuszozszxoszdo
 https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/musik/ikonser.m3u8
 
 #EXTINF:-1 tvg-ID=""  tvg-logo="https://i.ibb.co/XCGfZ9c/Desain-tanpa-judul-81-modified.png" group-title="Musik", Musik Indonesia
-#EXTVLCOPT:http-user-agent=zhuszozszxosfb
+#EXTVLCOPT:http-user-agent=zhuszozszxoszdo
 https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/musik/musikindo.m3u8
 
 #EXTINF:-1 tvg-ID=""  tvg-logo="https://i.ibb.co/yXjx6Yr/Uq-Gj-K62g3-S-modified.png" group-title="Musik", Prambors
-#EXTVLCOPT:http-user-agent=zhuszozszxosfb
+#EXTVLCOPT:http-user-agent=zhuszozszxoszdo
 https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/musik/prambors.m3u8
 
 #EXTINF:-1 tvg-ID=""  tvg-logo="https://i.ibb.co/cb7H9Xj/download-22-modified.png" group-title="Musik", MTV Asia
-#EXTVLCOPT:http-user-agent=zhuszozszxosfb
+#EXTVLCOPT:http-user-agent=zhuszozszxoszdo
 https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/musik/mtv.m3u8
 
 #EXTINF:-1 tvg-ID=""  tvg-logo="https://i.ibb.co/cb7H9Xj/download-22-modified.png" group-title="Musik", MTV Biggest Pop
-#EXTVLCOPT:http-user-agent=zhuszozszxosfb
+#EXTVLCOPT:http-user-agent=zhuszozszxoszdo
 https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/musik/mtvbig1.m3u8
 
 #EXTINF:-1 tvg-ID=""  tvg-logo="https://i.ibb.co/cb7H9Xj/download-22-modified.png" group-title="Musik", MTV Biggest Pop
-#EXTVLCOPT:http-user-agent=zhuszozszxosfb
+#EXTVLCOPT:http-user-agent=zhuszozszxoszdo
 https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/musik/mtvbig2.m3u8
 
 #EXTINF:-1 tvg-ID=""  tvg-logo="https://i.ibb.co/cb7H9Xj/download-22-modified.png" group-title="Musik", MTV Yo!
-#EXTVLCOPT:http-user-agent=zhuszozszxosfb
+#EXTVLCOPT:http-user-agent=zhuszozszxoszdo
 https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/musik/mtvyo1.m3u8
 
 #EXTINF:-1 tvg-ID=""  tvg-logo="https://i.ibb.co/cb7H9Xj/download-22-modified.png" group-title="Musik", MTV Yo!
-#EXTVLCOPT:http-user-agent=zhuszozszxosfb
+#EXTVLCOPT:http-user-agent=zhuszozszxoszdo
 https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/musik/mtvyo2.m3u8
 
 #EXTINF:-1 tvg-ID=""  tvg-logo="https://i.ibb.co/cb7H9Xj/download-22-modified.png" group-title="Musik", MTV Block Party
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS06/master.m3u8
 
 #EXTINF:-1 tvg-ID=""  tvg-logo="https://i.ibb.co/cb7H9Xj/download-22-modified.png" group-title="Musik", MTV Miaw
-#EXTVLCOPT:http-user-agent=zhuszozszxosfb
+#EXTVLCOPT:http-user-agent=zhuszozszxoszdo
 https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/musik/mtvblock1.m3u8
 
 #EXTINF:-1 tvg-ID=""  tvg-logo="https://i.ibb.co/cb7H9Xj/download-22-modified.png" group-title="Musik", MTV Spankin' New
@@ -2326,7 +2333,7 @@ https://chromecast.cvattv.com.ar/live/c6eds//MTV_HD/SA_Live_dash_enc_2A/MTV_HD.m
 https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/musik/vh11
 
 #EXTINF:-1 tvg-ID=""  tvg-logo="https://i.ibb.co/pzZctct/vh1-logo-modified.png" group-title="Musik", VH1 India
-#EXTVLCOPT:http-referrer=https://olacast.live/
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
 https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/musik/vh1
 
 #EXTINF:-1 tvg-ID=""  tvg-logo="https://i.ibb.co/DCKp679/CMT2-LOGO-modified.png" group-title="Musik", CMT Music
@@ -2379,6 +2386,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://dukun.masuk.id/drm/result.php?keyid=782f32d9501ac50dfd783671ade95210&key=9690dcf2368b1664680a8099125ccca9
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 #EXTINF:-1 tvg-id="821" tvg-logo="http://linear-poster.astro.com.my/prod/logo/WWE_v1.png" group-title="Malaysia",WWE NETWORK (VPN)
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2603/default_ott.mpd
 
@@ -2415,7 +2423,7 @@ http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=115617&extension=
 http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=115618&extension=ts
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://dukun.masuk.id/drm/result.php?keyid=113d6e58ea7e223e3fb4a9af3e927010&key=dc86f5d82e5dfaa0fbb22d220e023b7c
+#KODIPROP:inputstream.adaptive.license_key=https://dukun.masuk.id/astro/astro5
 #EXTINF:-1 tvg-id="815" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroSuperSport5.png" group-title="Malaysia",ASTRO SUPERSPORT 5 (VPN)
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5059/default_ott.mpd
 
@@ -2428,11 +2436,6 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2601/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://dukun.masuk.id/drm/result.php?keyid=bef29d5caac3628eb1efae8a215fae10&key=645a0014ea459a86cfa72cf8137bb4a7
 #EXTINF:-1 tvg-id="822" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Golf_v1.png" group-title="Malaysia",GOLF CHANNEL (VPN)
 http://linearjitp-playback.astro.com.my/dash-wv/linear/1003/default_ott.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://dukun.masuk.id/drm/result.php?keyid=cfc32f4dc3dac49b34708ded20364610&key=025dcec778861dd1e40cce4dd35e73a4
-#EXTINF:0 tvg-logo="https://i.postimg.cc/sDwWMtCY/Rugby-Pass-TVWhite.png" group-title="Malaysia",RUGBY PASS TV (VPN)
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2601/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://dukun.masuk.id/drm/result.php?keyid=d96d4ec1a73623b5789d78a48b829d10&key=1ca8dd93af16c84fa1ef5f1b761a03e3
@@ -2520,7 +2523,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2610/default_ott.mpd
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2300/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://dukun.masuk.id/drm/result.php?keyid=9cf5f00d7c35e9a0c4515d93e3938c10&key=2c2d00ff93b69f9e5e6c377fc8c80cc7
+#KODIPROP:inputstream.adaptive.license_key=https://dukun.masuk.id/astro/hgtv
 #EXTINF:-1 tvg-id="715" tvg-logo="http://linear-poster.astro.com.my/prod/logo/HGTV_v1.png" group-title="Malaysia",HGTV (VPN)
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2502/default_ott.mpd
 
@@ -2530,12 +2533,12 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2502/default_ott.mpd
 http://linearjitp-playback.astro.com.my/dash-wv/linear/607/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://dukun.masuk.id/drm/result.php?keyid=8762b5ff9680955e720e5ecb5ce78a10&key=187d7e7cb322853a0b485c47a7a12135
+#KODIPROP:inputstream.adaptive.license_key=https://dukun.masuk.id/astro/lifetime
 #EXTINF:-1 tvg-id="703" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Lifetime.png" group-title="Malaysia",LIFETIME (VPN)
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5052/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://dukun.masuk.id/drm/result.php?keyid=063689e84408a4542e3a158073182210&key=fd205780495645c7334cbdea0dc94f17
+#KODIPROP:inputstream.adaptive.license_key=https://dukun.masuk.id/astro/paramount
 #EXTINF:-1 tvg-id="713" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Paramount.png" group-title="Malaysia",PARAMOUNT NETWORK (VPN)
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5056/default_ott.mpd
 
@@ -2545,27 +2548,27 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5056/default_ott.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5014/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://dukun.masuk.id/drm/result.php?keyid=09e9d9037bbc6d4eac45bdee4b718b10&key=05db97174848670a152d0b15f3dab994
+#KODIPROP:inputstream.adaptive.license_key=https://dukun.masuk.id/astro/boo
 #EXTINF:-1 tvg-id="404" tvg-logo="http://linear-poster.astro.com.my/prod/logo/BOO_v1.png" group-title="Malaysia",BOO (MY) (VPN)
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2407/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://dukun.masuk.id/drm/result.php?keyid=76ac661111eadf6ffde0dcdbd16fcb10&key=24b391c868de298804403a024e6ce7de
+#KODIPROP:inputstream.adaptive.license_key=https://dukun.masuk.id/astro/kbs
 #EXTINF:-1 tvg-id="392" tvg-logo="http://linear-poster.astro.com.my/prod/logo/KBSW_v1.png" group-title="Malaysia",KBS WORLD (VPN)
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2306/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://dukun.masuk.id/drm/result.php?keyid=ddd9708a62b9e2eb44448dd1a6841310&key=0b248e71fef0c27988fa10049b32f309
+#KODIPROP:inputstream.adaptive.license_key=https://dukun.masuk.id/astro/kplus
 #EXTINF:-1 tvg-id="396" tvg-logo="http://linear-poster.astro.com.my/prod/logo/K-Plus_v1.png" group-title="Malaysia",K PLUS (VPN)
 http://linearjitp-playback.astro.com.my/dash-wv/linear/9983/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://dukun.masuk.id/drm/result.php?keyid=e95c72a41b5ea9957b07facd95542410&key=a5e0de041ca2766754a37952b3468eb2
+#KODIPROP:inputstream.adaptive.license_key=https://dukun.masuk.id/astro/showcase
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/ShowcaseMovies.png" group-title="Malaysia",SHOWCASE MOVIES (VPN)
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5054/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://dukun.masuk.id/drm/result.php?keyid=eaaa02f58d19457c6385bf2831706f10&key=7294ff05390550e09df76ef3b697f8da
+#KODIPROP:inputstream.adaptive.license_key=https://dukun.masuk.id/astro/prime
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/PRIMEtime.png" group-title="Malaysia",PRIMETIME (VPN)
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5049/default_ott.mpd
 
@@ -2575,12 +2578,12 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5049/default_ott.mpd
 http://linearjitp-playback.astro.com.my/dash-wv/linear/1002/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://dukun.masuk.id/drm/result.php?keyid=ba8842e119ee61ac7c613e1e6a1e3e10&key=46ed2370a8cc4cef2665e03e110f9455
+#KODIPROP:inputstream.adaptive.license_key=https://dukun.masuk.id/astro/one
 #EXTINF:-1 tvg-id="393" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428172_ico.png" group-title="Malaysia",ONE (VPN)
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2702/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://dukun.masuk.id/drm/result.php?keyid=c1269a58571f4528d585fdccbf8fa510&key=615d2dcc24a8fa6a7342185a6fcb1615
+#KODIPROP:inputstream.adaptive.license_key=https://dukun.masuk.id/astro/tvn
 #EXTINF:-1 tvg-id="395" tvg-logo="http://linear-poster.astro.com.my/prod/logo/tvN_2021.png" group-title="Malaysia",TVN (VPN)
 http://linearjitp-playback.astro.com.my/dash-wv/linear/1001/default_ott.mpd
 
@@ -2602,64 +2605,59 @@ https://unifi-live01.secureswiftcontent.com/UnifiHD/live03.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/LPVMhTq/tv6.png" group-title="Malaysia",TV6
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/playlist.m3u8?id=1
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/93.0.4577.82 Safari/537.36
-#EXTVLCOPT:http-referer=https://www.dailymotion.com
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://dukun.masuk.id/tv8
 #EXTINF:-1 group-title="Malaysia" tvg-id="108" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/148.png",8TV
-https://api.samsam123.name.my/mediaprima_dailymotion/beta.php?channels=8tv
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live08.mpd
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/93.0.4577.82 Safari/537.36
-#EXTVLCOPT:http-referer=https://www.dailymotion.com
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://dukun.masuk.id/tv9
 #EXTINF:-1 group-title="Malaysia" tvg-id="109" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/149.png",TV9
-https://api.samsam123.name.my/mediaprima_dailymotion/beta.php?channels=tv9
+https://unifi-live09.secureswiftcontent.com/UnifiHD/live09.mpd
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/93.0.4577.82 Safari/537.36
-#EXTVLCOPT:http-referer=https://www.dailymotion.com
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://dukun.masuk.id/didik
 #EXTINF:-1 group-title="Malaysia" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/147.png",DidikTV KPM
-https://api.samsam123.name.my/mediaprima_dailymotion/beta.php?channels=didiktv
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live06.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/Dramasangat.png/revision/latest?cb=20191016084737" group-title="Malaysia",Drama Sangat
-https://dukun.masuk.id/8tv
+https://dukun.masuk.id/gstv
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png" group-title="Malaysia",Okey
 #EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=1
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://dukun.masuk.id/drm/result.php?keyid=09891197fd467008f73b1fe18bfed710&key=fa752673e5da5541a796569371788dea
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5025
 #EXTINF:-1 tvg-id="501" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Awani_v1.png" group-title="Malaysia",ASTRO AWANI (VPN)
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5025/default_ott.mpd
 
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png" group-title="Malaysia",Astro Ria (VPN)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://dukun.masuk.id/drm/result.php?keyid=5f437ad29765f253325a84298d9f0d10&key=d8e36aeb7416a20a124c2d132c8f74f9
-#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1004/default_primary.mpd
 
 #EXTINF:-1 tvg-id="107" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png" group-title="Malaysia",ASTRO WARNA (VPN)
 http://51.79.82.208:16010
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://dukun.masuk.id/drm/result.php?keyid=73e84f91bd9ae20412e370f98fd3a110&key=d5b52aabca5afe002eb495804f8ec944
+#KODIPROP:inputstream.adaptive.license_key=https://dukun.masuk.id/astro/citra
 #EXTINF:-1 tvg-id="108" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png" group-title="Malaysia",ASTRO CITRA (VPN)
 https://linears-playback.astro.com.my/vsg/41acsoU5tHim2XqkqixVajCKkSR25lnMDxIGSaxGHBvQY=H4xU/dash-wv/jitp-linearwm/2700/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://dukun.masuk.id/drm/result.php?keyid=7b65e3d6ee807842a109821fba96b510&key=7827b9cf05fda4c3b77f48dea0acfa48
+#KODIPROP:inputstream.adaptive.license_key=https://dukun.masuk.id/astro/oasis
 #EXTINF:-1 tvg-id="106" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Oasis_v1.png" group-title="Malaysia",ASTRO OASIS (VPN)
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://dukun.masuk.id/drm/result.php?keyid=452aca9691995f5ae62629035888e110&key=35d62e585c052018e1c190eda89fafa3
+#KODIPROP:inputstream.adaptive.license_key=https://dukun.masuk.id/astro/prima
 #EXTINF:-1 tvg-id="105" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png" group-title="Malaysia",ASTRO PRIMA (VPN)
 http://linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://dukun.masuk.id/drm/result.php?keyid=217e77e40cf4ec1269ea1e278eb2c610&key=b2a2333955933b7dc3d71e7685971f71
+#KODIPROP:inputstream.adaptive.license_key=https://dukun.masuk.id/astro/aura
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/400_144.png" group-title="Malaysia",ASTRO AURA (VPN)
 https://linearjitp-playback.astro.com.my/dash-wv/linear/609/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://dukun.masuk.id/drm/result.php?keyid=8a4b24805e598acd00fae76918b3f610&key=1807230578255fcd79e1279b13ae69d8
+#KODIPROP:inputstream.adaptive.license_key=https://dukun.masuk.id/astro/rania
 #EXTINF:-1 tvg-id="109" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroRania.png" group-title="Malaysia",ASTRO RANIA (VPN)
 http://linearjitp-playback.astro.com.my/dash-wv/linear/608/default_ott.mpd
 
@@ -2669,7 +2667,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/608/default_ott.mpd
 http://linearjitp-playback.astro.com.my/dash-wv/linear/1007/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://dukun.masuk.id/drm/result.php?keyid=39b114b7ebecd9d4a7f1c797dd885b10&key=8d2be29307bb382c8c6c286cc9cd07c6
+#KODIPROP:inputstream.adaptive.license_key=https://dukun.masuk.id/astro/ceria
 #EXTINF:-1 tvg-id="611" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Ceria_v1.png" group-title="Malaysia",ASTRO CERIA (VPN)
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2606/default_ott.mpd
 
@@ -2679,22 +2677,22 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2606/default_ott.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2109/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://dukun.masuk.id/drm/result.php?keyid=18fe29fdda1b4ca306b4d8f08786fd10&key=47f6fa3ca0462021aa1c0c09253ece58
+#KODIPROP:inputstream.adaptive.license_key=https://dukun.masuk.id/astro/colors
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Colors_v1.png" group-title="Malaysia",COLORS (VPN)
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2611/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://dukun.masuk.id/drm/result.php?keyid=dd600869fd5f4bfee286825f6d778b10&key=eb5b83acbbd79af479a00db92935a34b
+#KODIPROP:inputstream.adaptive.license_key=https://dukun.masuk.id/astro/tvs
 #EXTINF:-1 tvg-id="122" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TVSarawak.png" group-title="Malaysia",TVS (VPN)
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5021/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://dukun.masuk.id/drm/result.php?keyid=3939ff52ae5e4d0e244414bb10682510&key=c24f329834fb054fd9e1a5d51d5a5306
+#KODIPROP:inputstream.adaptive.license_key=https://dukun.masuk.id/astro/alhijrah
 #EXTINF:-1 tvg-id="114" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Al-Hijrah_v1.png" group-title="Malaysia",TV ALHIJRAH (VPN)
 http://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://dukun.masuk.id/drm/result.php?keyid=930792941220753511b6c2efc5317b10&key=13acecaf90b59fb0c94115b04be71847
+#KODIPROP:inputstream.adaptive.license_key=https://dukun.masuk.id/astro/goshop
 #EXTINF:0 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/192_144.png" group-title="Malaysia",GO SHOP (VPN)
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2508/default_ott.mpd
 
@@ -2712,6 +2710,3 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2501/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://dukun.masuk.id/drm/result.php?keyid=86926949493ad3767442c338b3140810&key=cbccf2086e836ad13b783f6166f888fd
 #EXTINF:-1 tvg-id="211" tvg-name="SUN TV" group-title="Malaysia" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/358_144.png",211 Sun TV (VPN)
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2310/default_ott.mpd
-
-
-
